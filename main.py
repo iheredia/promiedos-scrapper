@@ -65,4 +65,4 @@ class PromiedosSpider(scrapy.Spider):
             first_team = first_team.split('&')[0]
         first_team = urllib.request.unquote(first_team, encoding='latin1')
         second_team = urllib.request.unquote(second_team, encoding='latin1')
-        return 'data/%s-%s.json' % (first_team, second_team)
+        return 'tmp/%s-%s.json' % (first_team, second_team)
