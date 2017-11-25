@@ -1,5 +1,6 @@
 import os
 import json
+import re
 
 
 def read_all_matches():
@@ -33,6 +34,51 @@ def remove_duplicates(matches):
         for i in range(1, len(sorted_alphabetically))
         if not matches_are_equal(sorted_alphabetically[i], sorted_alphabetically[i-1])
     ]
+
+
+def parse_date(date_string):
+    date = re.findall('\d{2}/\d{2}/\d{4}', date_string)
+    if len(date) == 0:
+        print('Warning: no dat at ', date_string)
+        return None
+    if len(date) > 1:
+        print('Warning: more than 1 date at ', date_string)
+    return '/'.join(date[0].split('/')[::-1])
+
+
+def to_obj(match):
+    if '(' in match[1]:
+        team1_scores = re.findall('\d+', match[1])
+        score1 = int(team1_scores[0])
+        penalty1 = int(team1_scores[1])
+
+        team2_scores = re.findall('\d+', match[2])
+        score2 = int(team2_scores[0])
+        penalty2 = int(team2_scores[1])
+
+        penalties = [penalty1, penalty2]
+    else:
+        penalties = None
+        score1 = int(match[1])
+        score2 = int(match[2])
+
+    place = None
+    if 'En' in match[4]:
+        place = match[4].split('En ')[1].strip()
+
+    match_type = None
+    if '-' in match[4]:
+        match_type = match[4].split('-')[0].strip()
+
+    return {
+        'equipos': [match[0], match[3]],
+        'resultado': [score1, score2],
+        'penales': penalties,
+        'fecha': parse_date(match[4]),
+        'lugar': place,
+        'tipo': match_type,
+        'raw': match[4]
+    }
 
 
 def compress(matches):
@@ -69,5 +115,7 @@ def save_json(obj, path):
 if __name__ == '__main__':
     all_matches = remove_duplicates(read_all_matches())
     argentina, national = separate_argentina(all_matches)
+    argentina = [to_obj(m) for m in argentina]
+    national = [to_obj(m) for m in national]
     save_json(argentina, 'data/argentina.json')
     save_json(national, 'data/nacional.json')
