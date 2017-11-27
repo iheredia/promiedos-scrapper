@@ -109,7 +109,7 @@ def compress(matches):
 
 def save_json(obj, path):
     with open(path, 'w') as json_file:
-        json.dump(obj, json_file, ensure_ascii=False)
+        json.dump(obj, json_file, ensure_ascii=False, indent=2)
 
 
 if __name__ == '__main__':
