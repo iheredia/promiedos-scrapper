@@ -39,7 +39,6 @@ def remove_duplicates(matches):
 def parse_date(date_string):
     date = re.findall('\d{2}/\d{2}/\d{4}', date_string)
     if len(date) == 0:
-        print('Warning: no dat at ', date_string)
         return None
     if len(date) > 1:
         print('Warning: more than 1 date at ', date_string)
@@ -112,10 +111,36 @@ def save_json(obj, path):
         json.dump(obj, json_file, ensure_ascii=False, indent=2)
 
 
+def parse_national_raw(match):
+    before, after = match['raw'].rsplit(' -')
+
+    before = before.strip()
+    rindex = before.rindex(' ')
+    name = before[:rindex].strip()
+    period = before[rindex + 1:].strip()
+
+    if len(after) == 0:
+        after = None
+    else:
+        after = after.strip()
+    match['torneo'] = {
+        'nombre': name,
+        'periodo': period,
+        'contexto': after
+    }
+
+    del match['raw']
+    return match
+
+
 if __name__ == '__main__':
     all_matches = remove_duplicates(read_all_matches())
     argentina, national = separate_argentina(all_matches)
+
     argentina = [to_obj(m) for m in argentina]
+
     national = [to_obj(m) for m in national]
+    national = [parse_national_raw(m) for m in national]
+
     save_json(argentina, 'data/argentina.json')
     save_json(national, 'data/nacional.json')
