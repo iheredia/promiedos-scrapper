@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import requests
 
 
 def read_all_matches():
@@ -133,11 +134,39 @@ def parse_national_raw(match):
     return match
 
 
+def coordinates(query_string):
+    params = {
+        "address": query_string
+    }
+    api_url = 'https://maps.googleapis.com/maps/api/geocode/json'
+    response = requests.get(api_url, params=params).json()
+    lat, long = None, None
+    results = response.get('results', [])
+    if len(results) > 0:
+        print('Got %d results for %s' % (len(results), query_string))
+        location = results[0].get('geometry', {}).get('location', {})
+        lat = location.get('lat', None)
+        long = location.get('lng', None)
+    return lat, long
+
+
+def with_coordinates(match):
+    print('Going to get', match['lugar'])
+    lat, long = coordinates(match['lugar'])
+    match["lugar"] = {
+        "raw": match["lugar"],
+        "lat": lat,
+        "long": long
+    }
+    return match
+
+
 if __name__ == '__main__':
     all_matches = remove_duplicates(read_all_matches())
     argentina, national = separate_argentina(all_matches)
 
     argentina = [to_obj(m) for m in argentina]
+    argentina = [with_coordinates(m) for m in argentina]
 
     national = [to_obj(m) for m in national]
     national = [parse_national_raw(m) for m in national]
