@@ -7,8 +7,10 @@ import requests
 def read_all_matches():
     matches = []
     for file_name in os.listdir('tmp'):
-        with open('tmp/' + file_name, 'r') as json_file:
-            matches += json.load(json_file)
+        file_path = 'tmp/' + file_name
+        if os.path.isfile(file_path):
+            with open(file_path, 'r') as json_file:
+                matches += json.load(json_file)
     return matches
 
 
@@ -135,15 +137,23 @@ def parse_national_raw(match):
 
 
 def coordinates(query_string):
-    params = {
-        "address": query_string
-    }
-    api_url = 'https://maps.googleapis.com/maps/api/geocode/json'
-    response = requests.get(api_url, params=params).json()
+    path_to_cache = 'tmp/geolocation/geolocation_%s.json' % query_string
+    if os.path.isfile(path_to_cache):
+        with open(path_to_cache, 'r') as response_json_file:
+            response = json.load(response_json_file)
+    else:
+        params = {
+            "address": query_string
+        }
+        api_url = 'https://maps.googleapis.com/maps/api/geocode/json'
+        response = requests.get(api_url, params=params).json()
+        with open(path_to_cache, 'w') as response_json_file:
+            json.dump(response, response_json_file)
     lat, long = None, None
     results = response.get('results', [])
     if len(results) > 0:
-        print('Got %d results for %s' % (len(results), query_string))
+        if len(results) > 1:
+            print('Got %d results for %s' % (len(results), query_string))
         location = results[0].get('geometry', {}).get('location', {})
         lat = location.get('lat', None)
         long = location.get('lng', None)
@@ -151,7 +161,6 @@ def coordinates(query_string):
 
 
 def with_coordinates(match):
-    print('Going to get', match['lugar'])
     lat, long = coordinates(match['lugar'])
     match["lugar"] = {
         "raw": match["lugar"],
