@@ -1,0 +1,723 @@
+[
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "River Plate",
+    "Metropolitano 1984 - Fecha 25"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Atlanta",
+    "Metropolitano 1984 - Fecha 6"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "River Plate",
+    "Metropolitano 1978 - Fecha 39"
+  ],
+  [
+    "River Plate",
+    "2",
+    "2",
+    "Atlanta",
+    "Metropolitano 1978 - Fecha 18"
+  ],
+  [
+    "River Plate",
+    "3",
+    "3",
+    "Atlanta",
+    "Nacional 1978 - Grupo D"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "2",
+    "River Plate",
+    "Nacional 1978 - Grupo D"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "2",
+    "River Plate",
+    "Metropolitano 1977 - Fecha 39"
+  ],
+  [
+    "River Plate",
+    "2",
+    "1",
+    "Atlanta",
+    "Metropolitano 1977 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Atlanta",
+    "Nacional 1976 - Grupo B"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "River Plate",
+    "Nacional 1976 - Grupo B"
+  ],
+  [
+    "River Plate",
+    "0",
+    "1",
+    "Atlanta",
+    "Metropolitano 1975 - Fecha 32"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "3",
+    "River Plate",
+    "Metropolitano 1975 - Fecha 13"
+  ],
+  [
+    "River Plate",
+    "5",
+    "0",
+    "Atlanta",
+    "Metropolitano 1974 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "River Plate",
+    "Metropolitano 1974 - Grupo A"
+  ],
+  [
+    "River Plate",
+    "2",
+    "1",
+    "Atlanta",
+    "Metropolitano 1973 - Fecha 20"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "River Plate",
+    "Metropolitano 1973 - Fecha 4"
+  ],
+  [
+    "River Plate",
+    "2",
+    "2",
+    "Atlanta",
+    "Nacional 1973 - Ronda Final"
+  ],
+  [
+    "Atlanta",
+    "4",
+    "4",
+    "River Plate",
+    "Metropolitano 1972 - Fecha 33"
+  ],
+  [
+    "River Plate",
+    "5",
+    "1",
+    "Atlanta",
+    "Metropolitano 1972 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Atlanta",
+    "Nacional 1972 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "River Plate",
+    "Metropolitano 1971 - Fecha 26"
+  ],
+  [
+    "River Plate",
+    "5",
+    "3",
+    "Atlanta",
+    "Metropolitano 1971 - Fecha 7"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "River Plate",
+    "Metropolitano 1970 - Fecha 19"
+  ],
+  [
+    "River Plate",
+    "0",
+    "1",
+    "Atlanta",
+    "Campeonato 1966 - Fecha 28"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "3",
+    "River Plate",
+    "Campeonato 1966 - Fecha 9"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "River Plate",
+    "Campeonato 1965 - Fecha 26"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Atlanta",
+    "Campeonato 1965 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "1",
+    "2",
+    "Atlanta",
+    "Campeonato 1964 - Fecha 18"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "0",
+    "River Plate",
+    "Campeonato 1964 - Fecha 3"
+  ],
+  [
+    "River Plate",
+    "2",
+    "2",
+    "Atlanta",
+    "Campeonato 1963 - Fecha 19"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "River Plate",
+    "Campeonato 1963 - Fecha 6"
+  ],
+  [
+    "River Plate",
+    "2",
+    "1",
+    "Atlanta",
+    "Campeonato 1962 - Fecha 24"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "River Plate",
+    "Campeonato 1962 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Atlanta",
+    "Campeonato 1961 - Fecha 20"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "River Plate",
+    "Campeonato 1961 - Fecha 5"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "River Plate",
+    "Campeonato 1960 - Fecha 20"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Atlanta",
+    "Campeonato 1960 - Fecha 5"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "0",
+    "River Plate",
+    "Campeonato 1959 - Fecha 21"
+  ],
+  [
+    "River Plate",
+    "1",
+    "0",
+    "Atlanta",
+    "Campeonato 1959 - Fecha 6"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "River Plate",
+    "Campeonato 1958 - Fecha 23"
+  ],
+  [
+    "River Plate",
+    "0",
+    "3",
+    "Atlanta",
+    "Campeonato 1958 - Fecha 8"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "3",
+    "River Plate",
+    "Campeonato 1957 - Fecha 28"
+  ],
+  [
+    "River Plate",
+    "4",
+    "1",
+    "Atlanta",
+    "Campeonato 1957 - Fecha 13"
+  ],
+  [
+    "River Plate",
+    "3",
+    "2",
+    "Atlanta",
+    "Campeonato 1952 - Fecha 19"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "2",
+    "River Plate",
+    "Campeonato 1952 - Fecha 4"
+  ],
+  [
+    "River Plate",
+    "6",
+    "1",
+    "Atlanta",
+    "Campeonato 1951 - Fecha 34"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "River Plate",
+    "Campeonato 1951 - Fecha 17"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "4",
+    "River Plate",
+    "Campeonato 1950 - Fecha 21"
+  ],
+  [
+    "River Plate",
+    "1",
+    "3",
+    "Atlanta",
+    "Campeonato 1950 - Fecha 4"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "River Plate",
+    "Campeonato 1949 - Fecha 19"
+  ],
+  [
+    "River Plate",
+    "7",
+    "0",
+    "Atlanta",
+    "Campeonato 1949 - Fecha 2"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "River Plate",
+    "Campeonato 1947 - Fecha 30"
+  ],
+  [
+    "River Plate",
+    "8",
+    "0",
+    "Atlanta",
+    "Campeonato 1947 - Fecha 15"
+  ],
+  [
+    "River Plate",
+    "6",
+    "1",
+    "Atlanta",
+    "Campeonato 1946 - Fecha 28"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "5",
+    "River Plate",
+    "Campeonato 1946 - Fecha 13"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "2",
+    "River Plate",
+    "Campeonato 1945 - Fecha 24"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Atlanta",
+    "Campeonato 1945 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "4",
+    "2",
+    "Atlanta",
+    "Campeonato 1944 - Fecha 18"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "3",
+    "River Plate",
+    "Campeonato 1944 - Fecha 3"
+  ],
+  [
+    "River Plate",
+    "3",
+    "0",
+    "Atlanta",
+    "Campeonato 1943 - Fecha 19"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "1",
+    "River Plate",
+    "Campeonato 1943 - Fecha 4"
+  ],
+  [
+    "River Plate",
+    "3",
+    "1",
+    "Atlanta",
+    "Campeonato 1942 - Fecha 16"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "4",
+    "River Plate",
+    "Campeonato 1942 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Atlanta",
+    "Campeonato 1941 - Fecha 16"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "5",
+    "River Plate",
+    "Campeonato 1941 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "7",
+    "1",
+    "Atlanta",
+    "Campeonato 1940 - Fecha 33"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "4",
+    "River Plate",
+    "Campeonato 1940 - Fecha 16"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "4",
+    "River Plate",
+    "Campeonato 1939 - Fecha 26"
+  ],
+  [
+    "River Plate",
+    "2",
+    "1",
+    "Atlanta",
+    "Campeonato 1939 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "5",
+    "1",
+    "Atlanta",
+    "Campeonato 1938 - Fecha 27"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "River Plate",
+    "Campeonato 1938 - Fecha 10"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "4",
+    "River Plate",
+    "Campeonato 1937 - Fecha 27"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Atlanta",
+    "Campeonato 1937 - Fecha 9"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "5",
+    "River Plate",
+    "Campeonato 1936 - Fecha 15"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Atlanta",
+    "Copa de Honor 1936 - Fecha 15"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "River Plate",
+    "Campeonato 1935 - Fecha 29"
+  ],
+  [
+    "River Plate",
+    "3",
+    "1",
+    "Atlanta",
+    "Campeonato 1935 - Fecha 12"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Atlanta",
+    "Campeonato 1933 - Fecha 32"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "River Plate",
+    "Campeonato 1933 - Fecha 15"
+  ],
+  [
+    "River Plate",
+    "5",
+    "3",
+    "Atlanta",
+    "Campeonato 1932 - Fecha 31"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "3",
+    "River Plate",
+    "Campeonato 1932 - Fecha 14"
+  ],
+  [
+    "River Plate",
+    "1",
+    "0",
+    "Atlanta",
+    "Campeonato 1931 - Fecha 18"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "River Plate",
+    "Campeonato 1931 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "8",
+    "0",
+    "Atlanta",
+    "Campeonato 1947 - Fecha 15"
+  ],
+  [
+    "River Plate",
+    "7",
+    "0",
+    "Atlanta",
+    "Campeonato 1949 - Fecha 2"
+  ],
+  [
+    "River Plate",
+    "7",
+    "1",
+    "Atlanta",
+    "Campeonato 1940 - Fecha 33"
+  ],
+  [
+    "River Plate",
+    "6",
+    "1",
+    "Atlanta",
+    "Campeonato 1946 - Fecha 28"
+  ],
+  [
+    "River Plate",
+    "6",
+    "1",
+    "Atlanta",
+    "Campeonato 1951 - Fecha 34"
+  ],
+  [
+    "River Plate",
+    "5",
+    "0",
+    "Atlanta",
+    "Metropolitano 1974 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "5",
+    "River Plate",
+    "Campeonato 1936 - Fecha 15"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "5",
+    "River Plate",
+    "Campeonato 1941 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "5",
+    "1",
+    "Atlanta",
+    "Campeonato 1938 - Fecha 27"
+  ],
+  [
+    "River Plate",
+    "5",
+    "1",
+    "Atlanta",
+    "Metropolitano 1972 - Fecha 16"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "5",
+    "River Plate",
+    "Campeonato 1946 - Fecha 13"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Atlanta",
+    "Campeonato 1937 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "4",
+    "1",
+    "Atlanta",
+    "Campeonato 1957 - Fecha 13"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "4",
+    "River Plate",
+    "Campeonato 1937 - Fecha 27"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "4",
+    "River Plate",
+    "Campeonato 1940 - Fecha 16"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "4",
+    "River Plate",
+    "Campeonato 1950 - Fecha 21"
+  ],
+  [
+    "River Plate",
+    "3",
+    "0",
+    "Atlanta",
+    "Campeonato 1943 - Fecha 19"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "3",
+    "River Plate",
+    "Campeonato 1932 - Fecha 14"
+  ],
+  [
+    "River Plate",
+    "0",
+    "3",
+    "Atlanta",
+    "Campeonato 1958 - Fecha 8"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "3",
+    "River Plate",
+    "Campeonato 1966 - Fecha 9"
+  ]
+]

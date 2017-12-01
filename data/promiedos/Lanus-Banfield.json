@@ -1,0 +1,583 @@
+[
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Lanus",
+    "Campeonato 2016/17 - Fecha 24"
+  ],
+  [
+    "Lanus",
+    "4",
+    "2",
+    "Banfield",
+    "Campeonato 2016/17 - Fecha 18"
+  ],
+  [
+    "Lanus",
+    "2",
+    "0",
+    "Banfield",
+    "Torneo 2016 - Fecha 12"
+  ],
+  [
+    "Banfield",
+    "0",
+    "2",
+    "Lanus",
+    "Torneo 2016 - Fecha 10"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Banfield",
+    "Campeonato 2015 - Fecha 24"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Lanus",
+    "Campeonato 2015 - Fecha 9"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo de Transicion 2014 - Fecha 7"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Banfield",
+    "Torneo Clausura 2012 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Lanus",
+    "Torneo Apertura 2011 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Lanus",
+    "Torneo Clausura 2011 - Fecha 4"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Banfield",
+    "Torneo Apertura 2010 - Fecha 4"
+  ],
+  [
+    "Banfield",
+    "2",
+    "0",
+    "Lanus",
+    "Torneo Clausura 2010 - Fecha 4"
+  ],
+  [
+    "Lanus",
+    "1",
+    "2",
+    "Banfield",
+    "Torneo Apertura 2009 - Fecha 4"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Lanus",
+    "Torneo Clausura 2009 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Banfield",
+    "Torneo Apertura 2008 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "0",
+    "5",
+    "Banfield",
+    "Torneo Clausura 2008 - Fecha 5"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Lanus",
+    "Torneo Apertura 2007 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Banfield",
+    "Torneo Clausura 2007 - Fecha 2"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2006 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "Banfield",
+    "Torneo Clausura 2006 - Fecha 15"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2005 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "2",
+    "4",
+    "Banfield",
+    "Torneo Clausura 2005 - Fecha 8"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2004 - Fecha 8"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2004 - Fecha 10"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2003 - Fecha 10"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Banfield",
+    "Torneo Clausura 2003 - Fecha 5"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2002 - Fecha 5"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Lanus",
+    "Torneo Clausura 2002 - Fecha 8"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo Apertura 2001 - Fecha 8"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo Clausura 1997 - Fecha 19"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Lanus",
+    "Torneo Apertura 1996 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "4",
+    "0",
+    "Banfield",
+    "Torneo Clausura 1996 - Fecha 12"
+  ],
+  [
+    "Banfield",
+    "0",
+    "2",
+    "Lanus",
+    "Torneo Apertura 1995 - Fecha 12"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Lanus",
+    "Torneo Clausura 1995 - Fecha 3"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo Apertura 1994 - Fecha 3"
+  ],
+  [
+    "Banfield",
+    "2",
+    "0",
+    "Lanus",
+    "Torneo Clausura 1994 - Fecha 6"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Banfield",
+    "Torneo Apertura 1993 - Fecha 6"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Banfield",
+    "Metropolitano 1977 - Fecha 41"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Lanus",
+    "Metropolitano 1977 - Fecha 18"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Banfield",
+    "Metropolitano 1972 - Fecha 27"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Lanus",
+    "Metropolitano 1972 - Fecha 10"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Banfield",
+    "Nacional 1972 - Fecha Intergrupo"
+  ],
+  [
+    "Banfield",
+    "3",
+    "1",
+    "Lanus",
+    "Nacional 1972 - Grupo Reclasificatorio"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Banfield",
+    "Metropolitano 1970 - Fecha 5"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Lanus",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Lanus",
+    "1",
+    "2",
+    "Banfield",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Banfield",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "2",
+    "0",
+    "Lanus",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Lanus",
+    "Metropolitano 1967 - Fecha Intergrupo"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Banfield",
+    "Metropolitano 1967 - Fecha Intergrupo"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1966 - Fecha 20"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Banfield",
+    "Campeonato 1966 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Banfield",
+    "Campeonato 1965 - Fecha 33"
+  ],
+  [
+    "Banfield",
+    "4",
+    "2",
+    "Lanus",
+    "Campeonato 1965 - Fecha 16"
+  ],
+  [
+    "Banfield",
+    "2",
+    "3",
+    "Lanus",
+    "Campeonato 1954 - Fecha 21"
+  ],
+  [
+    "Lanus",
+    "4",
+    "0",
+    "Banfield",
+    "Campeonato 1954 - Fecha 6"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Banfield",
+    "Campeonato 1953 - Fecha 21"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1953 - Fecha 6"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1952 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Banfield",
+    "Campeonato 1952 - Fecha 4"
+  ],
+  [
+    "Lanus",
+    "1",
+    "3",
+    "Banfield",
+    "Campeonato 1951 - Fecha 24"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1951 - Fecha 7"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1949 - Fecha 24"
+  ],
+  [
+    "Banfield",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1949 - Fecha 7"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1948 - Fecha 28"
+  ],
+  [
+    "Lanus",
+    "1",
+    "2",
+    "Banfield",
+    "Campeonato 1948 - Fecha 13"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1947 - Fecha 30"
+  ],
+  [
+    "Banfield",
+    "1",
+    "3",
+    "Lanus",
+    "Campeonato 1947 - Fecha 15"
+  ],
+  [
+    "Banfield",
+    "3",
+    "1",
+    "Lanus",
+    "Campeonato 1944 - Fecha 30"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1944 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "4",
+    "2",
+    "Banfield",
+    "Campeonato 1943 - Fecha 30"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1943 - Fecha 15"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Lanus",
+    "Campeonato 1942 - Fecha 24"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1942 - Fecha 9"
+  ],
+  [
+    "Banfield",
+    "3",
+    "2",
+    "Lanus",
+    "Campeonato 1941 - Fecha 17"
+  ],
+  [
+    "Lanus",
+    "3",
+    "3",
+    "Banfield",
+    "Campeonato 1941 - Fecha 2"
+  ],
+  [
+    "Banfield",
+    "5",
+    "0",
+    "Lanus",
+    "Campeonato 1940 - Fecha 22"
+  ],
+  [
+    "Banfield",
+    "5",
+    "0",
+    "Lanus",
+    "Campeonato 1940 - Fecha 22"
+  ],
+  [
+    "Lanus",
+    "0",
+    "5",
+    "Banfield",
+    "Torneo Clausura 2008 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "4",
+    "0",
+    "Banfield",
+    "Torneo Clausura 1996 - Fecha 12"
+  ],
+  [
+    "Lanus",
+    "4",
+    "0",
+    "Banfield",
+    "Campeonato 1954 - Fecha 6"
+  ],
+  [
+    "Banfield",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1949 - Fecha 7"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1966 - Fecha 20"
+  ]
+]

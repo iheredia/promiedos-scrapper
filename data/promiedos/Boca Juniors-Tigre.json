@@ -1,0 +1,555 @@
+[
+  [
+    "Tigre",
+    "1",
+    "1",
+    "Boca Juniors",
+    "Campeonato 2016/17 - Fecha 5"
+  ],
+  [
+    "Tigre",
+    "2",
+    "0",
+    "Boca Juniors",
+    "Torneo 2016 - Fecha 10"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "0",
+    "Tigre",
+    "Campeonato 2015 - Fecha 29"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "0",
+    "Tigre",
+    "Torneo de Transicion 2014 - Fecha 15"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "Boca Juniors",
+    "Torneo Final 2014 - Fecha 15"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "1",
+    "Tigre",
+    "Torneo Inicial 2013 - Fecha 15"
+  ],
+  [
+    "Tigre",
+    "0",
+    "0",
+    "Boca Juniors",
+    "Torneo Final 2013 - Fecha 2"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "0",
+    "Tigre",
+    "Torneo Inicial 2012 - Fecha 2"
+  ],
+  [
+    "Tigre",
+    "2",
+    "1",
+    "Boca Juniors",
+    "Torneo Clausura 2012 - Fecha 10"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "0",
+    "Tigre",
+    "Torneo Apertura 2011 - Fecha 10"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "3",
+    "Tigre",
+    "Torneo Clausura 2011 - Fecha 10"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "Boca Juniors",
+    "Torneo Apertura 2010 - Fecha 10"
+  ],
+  [
+    "Tigre",
+    "3",
+    "0",
+    "Boca Juniors",
+    "Torneo Clausura 2010 - Fecha 9"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "1",
+    "Tigre",
+    "Torneo Apertura 2009 - Fecha 9"
+  ],
+  [
+    "Tigre",
+    "0",
+    "0",
+    "Boca Juniors",
+    "Torneo Clausura 2009 - Fecha 7"
+  ],
+  [
+    "Boca Juniors",
+    "0",
+    "1",
+    "Tigre",
+    "Torneo Apertura 2008 - Triangular Desempate"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "3",
+    "Tigre",
+    "Torneo Apertura 2008 - Fecha 7"
+  ],
+  [
+    "Boca Juniors",
+    "6",
+    "2",
+    "Tigre",
+    "Torneo Clausura 2008 - Fecha 19"
+  ],
+  [
+    "Tigre",
+    "2",
+    "1",
+    "Boca Juniors",
+    "Torneo Apertura 2007 - Fecha 19"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "0",
+    "Tigre",
+    "Metropolitano 1980 - Fecha 24"
+  ],
+  [
+    "Tigre",
+    "2",
+    "0",
+    "Boca Juniors",
+    "Metropolitano 1980 - Fecha 5"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "1",
+    "Tigre",
+    "Campeonato 1958 - Fecha 30"
+  ],
+  [
+    "Tigre",
+    "2",
+    "3",
+    "Boca Juniors",
+    "Campeonato 1958 - Fecha 15"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "1",
+    "Tigre",
+    "Campeonato 1957 - Fecha 18"
+  ],
+  [
+    "Tigre",
+    "1",
+    "1",
+    "Boca Juniors",
+    "Campeonato 1957 - Fecha 3"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "1",
+    "Tigre",
+    "Campeonato 1956 - Fecha 25"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1956 - Fecha 10"
+  ],
+  [
+    "Tigre",
+    "3",
+    "0",
+    "Boca Juniors",
+    "Campeonato 1955 - Fecha 28"
+  ],
+  [
+    "Boca Juniors",
+    "0",
+    "0",
+    "Tigre",
+    "Campeonato 1955 - Fecha 13"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "0",
+    "Tigre",
+    "Campeonato 1954 - Fecha 29"
+  ],
+  [
+    "Tigre",
+    "0",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1954 - Fecha 14"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "1",
+    "Tigre",
+    "Campeonato 1950 - Fecha 25"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "Boca Juniors",
+    "Campeonato 1950 - Fecha 8"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1949 - Fecha 19"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "2",
+    "Tigre",
+    "Campeonato 1949 - Fecha 2"
+  ],
+  [
+    "Tigre",
+    "1",
+    "1",
+    "Boca Juniors",
+    "Campeonato 1948 - Fecha 27"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "1",
+    "Tigre",
+    "Campeonato 1948 - Fecha 12"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1947 - Fecha 22"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1947 - Fecha 7"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "3",
+    "Tigre",
+    "Campeonato 1946 - Fecha 19"
+  ],
+  [
+    "Tigre",
+    "0",
+    "3",
+    "Boca Juniors",
+    "Campeonato 1946 - Fecha 4"
+  ],
+  [
+    "Tigre",
+    "2",
+    "1",
+    "Boca Juniors",
+    "Campeonato 1942 - Fecha 23"
+  ],
+  [
+    "Boca Juniors",
+    "11",
+    "1",
+    "Tigre",
+    "Campeonato 1942 - Fecha 8"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1941 - Fecha 30"
+  ],
+  [
+    "Tigre",
+    "1",
+    "1",
+    "Boca Juniors",
+    "Campeonato 1941 - Fecha 15"
+  ],
+  [
+    "Tigre",
+    "2",
+    "3",
+    "Boca Juniors",
+    "Campeonato 1940 - Fecha 18"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "2",
+    "Tigre",
+    "Campeonato 1940 - Fecha 1"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "0",
+    "Tigre",
+    "Campeonato 1939 - Fecha 21"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "Boca Juniors",
+    "Campeonato 1939 - Fecha 4"
+  ],
+  [
+    "Tigre",
+    "0",
+    "4",
+    "Boca Juniors",
+    "Campeonato 1938 - Fecha 30"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "2",
+    "Tigre",
+    "Campeonato 1938 - Fecha 13"
+  ],
+  [
+    "Boca Juniors",
+    "8",
+    "0",
+    "Tigre",
+    "Campeonato 1937 - Fecha 35"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "Boca Juniors",
+    "Campeonato 1937 - Fecha 17"
+  ],
+  [
+    "Tigre",
+    "1",
+    "5",
+    "Boca Juniors",
+    "Campeonato 1936 - Fecha 12"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "0",
+    "Tigre",
+    "Copa de Honor 1936 - Fecha 12"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1935 - Fecha 33"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1935 - Fecha 16"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "1",
+    "Tigre",
+    "Campeonato 1933 - Fecha 24"
+  ],
+  [
+    "Tigre",
+    "1",
+    "6",
+    "Boca Juniors",
+    "Campeonato 1933 - Fecha 7"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "0",
+    "Tigre",
+    "Campeonato 1932 - Fecha 23"
+  ],
+  [
+    "Tigre",
+    "3",
+    "4",
+    "Boca Juniors",
+    "Campeonato 1932 - Fecha 6"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "2",
+    "Tigre",
+    "Campeonato 1931 - Fecha 24"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1931 - Fecha 7"
+  ],
+  [
+    "Boca Juniors",
+    "11",
+    "1",
+    "Tigre",
+    "Campeonato 1942 - Fecha 8"
+  ],
+  [
+    "Boca Juniors",
+    "8",
+    "0",
+    "Tigre",
+    "Campeonato 1937 - Fecha 35"
+  ],
+  [
+    "Tigre",
+    "1",
+    "6",
+    "Boca Juniors",
+    "Campeonato 1933 - Fecha 7"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "0",
+    "Tigre",
+    "Campeonato 1932 - Fecha 23"
+  ],
+  [
+    "Boca Juniors",
+    "6",
+    "2",
+    "Tigre",
+    "Torneo Clausura 2008 - Fecha 19"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "1",
+    "Tigre",
+    "Campeonato 1958 - Fecha 30"
+  ],
+  [
+    "Tigre",
+    "1",
+    "5",
+    "Boca Juniors",
+    "Campeonato 1936 - Fecha 12"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "0",
+    "Tigre",
+    "Campeonato 1939 - Fecha 21"
+  ],
+  [
+    "Tigre",
+    "0",
+    "4",
+    "Boca Juniors",
+    "Campeonato 1938 - Fecha 30"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "1",
+    "Tigre",
+    "Campeonato 1948 - Fecha 12"
+  ],
+  [
+    "Tigre",
+    "3",
+    "0",
+    "Boca Juniors",
+    "Torneo Clausura 2010 - Fecha 9"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1935 - Fecha 33"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1941 - Fecha 30"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1947 - Fecha 7"
+  ],
+  [
+    "Tigre",
+    "3",
+    "0",
+    "Boca Juniors",
+    "Campeonato 1955 - Fecha 28"
+  ],
+  [
+    "Tigre",
+    "0",
+    "3",
+    "Boca Juniors",
+    "Campeonato 1946 - Fecha 4"
+  ]
+]

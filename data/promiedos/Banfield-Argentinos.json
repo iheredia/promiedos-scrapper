@@ -1,0 +1,436 @@
+[
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Argentinos",
+    "Campeonato 2015 - Liguilla Sudamericana"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Argentinos",
+    "Campeonato 2015 - Fecha 23"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2012 - Fecha 16"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Argentinos",
+    "Torneo Apertura 2011 - Fecha 16"
+  ],
+  [
+    "Banfield",
+    "0",
+    "2",
+    "Argentinos",
+    "Torneo Clausura 2011 - Fecha 8"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo Apertura 2010 - Fecha 8"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Argentinos",
+    "Torneo Clausura 2010 - Fecha 2"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "1",
+    "Banfield",
+    "Torneo Apertura 2009 - Fecha 2"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "1",
+    "Banfield",
+    "Torneo Clausura 2009 - Fecha 18"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Argentinos",
+    "Torneo Apertura 2008 - Fecha 18"
+  ],
+  [
+    "Banfield",
+    "3",
+    "2",
+    "Argentinos",
+    "Torneo Clausura 2008 - Fecha 8"
+  ],
+  [
+    "Argentinos",
+    "2",
+    "0",
+    "Banfield",
+    "Torneo Apertura 2007 - Fecha 8"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Argentinos",
+    "Torneo Clausura 2007 - Fecha 14"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "1",
+    "Banfield",
+    "Torneo Apertura 2006 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "3",
+    "1",
+    "Argentinos",
+    "Torneo Clausura 2006 - Fecha 18"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "1",
+    "Banfield",
+    "Torneo Apertura 2005 - Fecha 18"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "2",
+    "Banfield",
+    "Torneo Clausura 2005 - Fecha 19"
+  ],
+  [
+    "Banfield",
+    "0",
+    "2",
+    "Argentinos",
+    "Torneo Apertura 2004 - Fecha 19"
+  ],
+  [
+    "Argentinos",
+    "2",
+    "1",
+    "Banfield",
+    "Torneo Clausura 2002 - Fecha 9"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Argentinos",
+    "Torneo Apertura 2001 - Fecha 9"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Argentinos",
+    "Torneo Clausura 1996 - Fecha 17"
+  ],
+  [
+    "Argentinos",
+    "0",
+    "1",
+    "Banfield",
+    "Torneo Apertura 1995 - Fecha 17"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "4",
+    "Banfield",
+    "Torneo Clausura 1995 - Fecha 6"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Argentinos",
+    "Torneo Apertura 1994 - Fecha 6"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Argentinos",
+    "Torneo Clausura 1994 - Fecha 14"
+  ],
+  [
+    "Argentinos",
+    "2",
+    "1",
+    "Banfield",
+    "Torneo Apertura 1993 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Argentinos",
+    "Campeonato 1987/88 - Fecha 32"
+  ],
+  [
+    "Argentinos",
+    "5",
+    "1",
+    "Banfield",
+    "Campeonato 1987/88 - Fecha 13"
+  ],
+  [
+    "Argentinos",
+    "3",
+    "2",
+    "Banfield",
+    "Metropolitano 1978 - Fecha 35"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Argentinos",
+    "Metropolitano 1978 - Fecha 14"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "4",
+    "Banfield",
+    "Metropolitano 1977 - Fecha 34"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Argentinos",
+    "Metropolitano 1977 - Fecha 11"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "1",
+    "Banfield",
+    "Metropolitano 1976 - Grupo Descenso"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Argentinos",
+    "Metropolitano 1975 - Fecha 38"
+  ],
+  [
+    "Argentinos",
+    "3",
+    "2",
+    "Banfield",
+    "Metropolitano 1975 - Fecha 19"
+  ],
+  [
+    "Argentinos",
+    "5",
+    "1",
+    "Banfield",
+    "Metropolitano 1972 - Fecha 18"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Argentinos",
+    "Metropolitano 1972 - Fecha 1"
+  ],
+  [
+    "Argentinos",
+    "0",
+    "1",
+    "Banfield",
+    "Nacional 1972 - Grupo B"
+  ],
+  [
+    "Argentinos",
+    "0",
+    "0",
+    "Banfield",
+    "Metropolitano 1971 - Fecha 20"
+  ],
+  [
+    "Banfield",
+    "4",
+    "3",
+    "Argentinos",
+    "Metropolitano 1971 - Fecha 1"
+  ],
+  [
+    "Argentinos",
+    "0",
+    "1",
+    "Banfield",
+    "Nacional 1971 - Grupo A"
+  ],
+  [
+    "Argentinos",
+    "0",
+    "0",
+    "Banfield",
+    "Metropolitano 1970 - Fecha 2"
+  ],
+  [
+    "Argentinos",
+    "4",
+    "1",
+    "Banfield",
+    "Metropolitano 1969 - Grupo Reclasificatorio"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Argentinos",
+    "Metropolitano 1969 - Grupo Reclasificatorio"
+  ],
+  [
+    "Argentinos",
+    "0",
+    "2",
+    "Banfield",
+    "Nacional 1968 - Grupo Promocional"
+  ],
+  [
+    "Banfield",
+    "4",
+    "1",
+    "Argentinos",
+    "Nacional 1968 - Grupo Promocional"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Argentinos",
+    "Campeonato 1966 - Fecha 35"
+  ],
+  [
+    "Argentinos",
+    "2",
+    "1",
+    "Banfield",
+    "Campeonato 1966 - Fecha 16"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "0",
+    "Banfield",
+    "Campeonato 1965 - Fecha 27"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Argentinos",
+    "Campeonato 1965 - Fecha 10"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Argentinos",
+    "Campeonato 1964 - Fecha 16"
+  ],
+  [
+    "Argentinos",
+    "0",
+    "0",
+    "Banfield",
+    "Campeonato 1964 - Fecha 1"
+  ],
+  [
+    "Argentinos",
+    "0",
+    "0",
+    "Banfield",
+    "Campeonato 1963 - Fecha 23"
+  ],
+  [
+    "Banfield",
+    "5",
+    "0",
+    "Argentinos",
+    "Campeonato 1963 - Fecha 10"
+  ],
+  [
+    "Banfield",
+    "5",
+    "0",
+    "Argentinos",
+    "Campeonato 1963 - Fecha 10"
+  ],
+  [
+    "Argentinos",
+    "5",
+    "1",
+    "Banfield",
+    "Campeonato 1987/88 - Fecha 13"
+  ],
+  [
+    "Argentinos",
+    "5",
+    "1",
+    "Banfield",
+    "Metropolitano 1972 - Fecha 18"
+  ],
+  [
+    "Banfield",
+    "4",
+    "1",
+    "Argentinos",
+    "Nacional 1968 - Grupo Promocional"
+  ],
+  [
+    "Argentinos",
+    "4",
+    "1",
+    "Banfield",
+    "Metropolitano 1969 - Grupo Reclasificatorio"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "4",
+    "Banfield",
+    "Torneo Clausura 1995 - Fecha 6"
+  ],
+  [
+    "Argentinos",
+    "1",
+    "4",
+    "Banfield",
+    "Metropolitano 1977 - Fecha 34"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Argentinos",
+    "Torneo Clausura 2010 - Fecha 2"
+  ]
+]

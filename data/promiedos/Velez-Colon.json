@@ -1,0 +1,527 @@
+[
+  [
+    "Velez",
+    "2",
+    "1",
+    "Colon",
+    "Campeonato 2016/17 - Fecha 6"
+  ],
+  [
+    "Velez",
+    "2",
+    "0",
+    "Colon",
+    "Torneo 2016 - Fecha 14"
+  ],
+  [
+    "Colon",
+    "0",
+    "0",
+    "Velez",
+    "Campeonato 2015 - Fecha 21"
+  ],
+  [
+    "Velez",
+    "2",
+    "0",
+    "Colon",
+    "Torneo Final 2014 - Fecha 18"
+  ],
+  [
+    "Colon",
+    "0",
+    "2",
+    "Velez",
+    "Torneo Inicial 2013 - Fecha 18"
+  ],
+  [
+    "Colon",
+    "2",
+    "1",
+    "Velez",
+    "Torneo Final 2013 - Fecha 9"
+  ],
+  [
+    "Velez",
+    "2",
+    "4",
+    "Colon",
+    "Torneo Inicial 2012 - Fecha 9"
+  ],
+  [
+    "Colon",
+    "0",
+    "2",
+    "Velez",
+    "Torneo Clausura 2012 - Fecha 16"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Apertura 2011 - Fecha 16"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Velez",
+    "Torneo Clausura 2011 - Fecha 10"
+  ],
+  [
+    "Velez",
+    "6",
+    "0",
+    "Colon",
+    "Torneo Apertura 2010 - Fecha 10"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Clausura 2010 - Fecha 1"
+  ],
+  [
+    "Colon",
+    "0",
+    "1",
+    "Velez",
+    "Torneo Apertura 2009 - Fecha 1"
+  ],
+  [
+    "Colon",
+    "2",
+    "4",
+    "Velez",
+    "Torneo Clausura 2009 - Fecha 11"
+  ],
+  [
+    "Velez",
+    "0",
+    "3",
+    "Colon",
+    "Torneo Apertura 2008 - Fecha 11"
+  ],
+  [
+    "Velez",
+    "4",
+    "3",
+    "Colon",
+    "Torneo Clausura 2008 - Fecha 1"
+  ],
+  [
+    "Colon",
+    "0",
+    "1",
+    "Velez",
+    "Torneo Apertura 2007 - Fecha 1"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Clausura 2007 - Fecha 7"
+  ],
+  [
+    "Colon",
+    "1",
+    "0",
+    "Velez",
+    "Torneo Apertura 2006 - Fecha 7"
+  ],
+  [
+    "Colon",
+    "1",
+    "3",
+    "Velez",
+    "Torneo Clausura 2006 - Fecha 10"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Colon",
+    "Torneo Apertura 2005 - Fecha 10"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Velez",
+    "Torneo Clausura 2005 - Fecha 13"
+  ],
+  [
+    "Velez",
+    "2",
+    "3",
+    "Colon",
+    "Torneo Apertura 2004 - Fecha 13"
+  ],
+  [
+    "Colon",
+    "1",
+    "2",
+    "Velez",
+    "Torneo Clausura 2004 - Fecha 17"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Apertura 2003 - Fecha 17"
+  ],
+  [
+    "Colon",
+    "1",
+    "0",
+    "Velez",
+    "Torneo Clausura 2003 - Fecha 19"
+  ],
+  [
+    "Velez",
+    "1",
+    "0",
+    "Colon",
+    "Torneo Apertura 2002 - Fecha 19"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Velez",
+    "Torneo Clausura 2002 - Fecha 5"
+  ],
+  [
+    "Velez",
+    "2",
+    "2",
+    "Colon",
+    "Torneo Apertura 2001 - Fecha 5"
+  ],
+  [
+    "Colon",
+    "2",
+    "0",
+    "Velez",
+    "Torneo Clausura 2001 - Fecha 4"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Apertura 2000 - Fecha 4"
+  ],
+  [
+    "Colon",
+    "1",
+    "0",
+    "Velez",
+    "Torneo Clausura 2000 - Fecha 1"
+  ],
+  [
+    "Velez",
+    "0",
+    "0",
+    "Colon",
+    "Torneo Apertura 1999 - Fecha 1"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Velez",
+    "Torneo Clausura 1999 - Fecha 18"
+  ],
+  [
+    "Velez",
+    "2",
+    "0",
+    "Colon",
+    "Torneo Apertura 1998 - Fecha 18"
+  ],
+  [
+    "Velez",
+    "6",
+    "1",
+    "Colon",
+    "Torneo Clausura 1998 - Fecha 12"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Velez",
+    "Torneo Apertura 1997 - Fecha 12"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Clausura 1997 - Fecha 14"
+  ],
+  [
+    "Colon",
+    "2",
+    "1",
+    "Velez",
+    "Torneo Apertura 1996 - Fecha 14"
+  ],
+  [
+    "Velez",
+    "2",
+    "0",
+    "Colon",
+    "Torneo Clausura 1996 - Fecha 15"
+  ],
+  [
+    "Colon",
+    "1",
+    "2",
+    "Velez",
+    "Torneo Apertura 1995 - Fecha 15"
+  ],
+  [
+    "Velez",
+    "5",
+    "1",
+    "Colon",
+    "Metropolitano 1981 - Fecha 23"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Velez",
+    "Metropolitano 1981 - Fecha 6"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Colon",
+    "Metropolitano 1980 - Fecha 34"
+  ],
+  [
+    "Colon",
+    "1",
+    "0",
+    "Velez",
+    "Metropolitano 1980 - Fecha 15"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Velez",
+    "Metropolitano 1978 - Fecha 28"
+  ],
+  [
+    "Velez",
+    "0",
+    "2",
+    "Colon",
+    "Metropolitano 1978 - Fecha 7"
+  ],
+  [
+    "Colon",
+    "2",
+    "2",
+    "Velez",
+    "Metropolitano 1977 - Fecha 45"
+  ],
+  [
+    "Velez",
+    "2",
+    "0",
+    "Colon",
+    "Metropolitano 1977 - Fecha 22"
+  ],
+  [
+    "Colon",
+    "4",
+    "1",
+    "Velez",
+    "Nacional 1977 - Grupo C"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Colon",
+    "Nacional 1977 - Grupo C"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Colon",
+    "Metropolitano 1975 - Fecha 37"
+  ],
+  [
+    "Colon",
+    "2",
+    "1",
+    "Velez",
+    "Metropolitano 1975 - Fecha 18"
+  ],
+  [
+    "Velez",
+    "5",
+    "3",
+    "Colon",
+    "Metropolitano 1973 - Fecha 19"
+  ],
+  [
+    "Colon",
+    "0",
+    "0",
+    "Velez",
+    "Metropolitano 1973 - Fecha 2"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Colon",
+    "Nacional 1973 - Grupo A"
+  ],
+  [
+    "Velez",
+    "4",
+    "2",
+    "Colon",
+    "Metropolitano 1972 - Fecha 24"
+  ],
+  [
+    "Colon",
+    "1",
+    "3",
+    "Velez",
+    "Metropolitano 1972 - Fecha 7"
+  ],
+  [
+    "Velez",
+    "3",
+    "2",
+    "Colon",
+    "Metropolitano 1971 - Fecha 21"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Velez",
+    "Metropolitano 1971 - Fecha 2"
+  ],
+  [
+    "Colon",
+    "2",
+    "0",
+    "Velez",
+    "Nacional 1971 - Grupo B"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Colon",
+    "Metropolitano 1970 - Fecha 3"
+  ],
+  [
+    "Colon",
+    "2",
+    "2",
+    "Velez",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Velez",
+    "4",
+    "2",
+    "Colon",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Colon",
+    "3",
+    "1",
+    "Velez",
+    "Nacional 1968 - Fecha 11"
+  ],
+  [
+    "Colon",
+    "1",
+    "0",
+    "Velez",
+    "Metropolitano 1967 - Grupo A"
+  ],
+  [
+    "Velez",
+    "5",
+    "3",
+    "Colon",
+    "Metropolitano 1967 - Grupo A"
+  ],
+  [
+    "Velez",
+    "2",
+    "2",
+    "Colon",
+    "Campeonato 1966 - Fecha 35"
+  ],
+  [
+    "Colon",
+    "0",
+    "1",
+    "Velez",
+    "Campeonato 1966 - Fecha 16"
+  ],
+  [
+    "Velez",
+    "6",
+    "0",
+    "Colon",
+    "Torneo Apertura 2010 - Fecha 10"
+  ],
+  [
+    "Velez",
+    "6",
+    "1",
+    "Colon",
+    "Torneo Clausura 1998 - Fecha 12"
+  ],
+  [
+    "Velez",
+    "5",
+    "1",
+    "Colon",
+    "Metropolitano 1981 - Fecha 23"
+  ],
+  [
+    "Colon",
+    "4",
+    "1",
+    "Velez",
+    "Nacional 1977 - Grupo C"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Colon",
+    "Metropolitano 1975 - Fecha 37"
+  ],
+  [
+    "Velez",
+    "0",
+    "3",
+    "Colon",
+    "Torneo Apertura 2008 - Fecha 11"
+  ]
+]

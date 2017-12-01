@@ -1,0 +1,653 @@
+[
+  [
+    "Ferro",
+    "0",
+    "7",
+    "Lanus",
+    "Torneo Clausura 2000 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "Ferro",
+    "Torneo Apertura 1999 - Fecha 14"
+  ],
+  [
+    "Ferro",
+    "1",
+    "0",
+    "Lanus",
+    "Torneo Clausura 1999 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Ferro",
+    "Torneo Apertura 1998 - Fecha 16"
+  ],
+  [
+    "Ferro",
+    "3",
+    "3",
+    "Lanus",
+    "Torneo Clausura 1998 - Fecha 4"
+  ],
+  [
+    "Lanus",
+    "1",
+    "3",
+    "Ferro",
+    "Torneo Apertura 1997 - Fecha 4"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Ferro",
+    "Torneo Clausura 1997 - Fecha 13"
+  ],
+  [
+    "Ferro",
+    "1",
+    "2",
+    "Lanus",
+    "Torneo Apertura 1996 - Fecha 13"
+  ],
+  [
+    "Ferro",
+    "1",
+    "1",
+    "Lanus",
+    "Torneo Clausura 1996 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Ferro",
+    "Torneo Apertura 1995 - Fecha 2"
+  ],
+  [
+    "Ferro",
+    "0",
+    "0",
+    "Lanus",
+    "Torneo Clausura 1995 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "Ferro",
+    "Torneo Apertura 1994 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Ferro",
+    "Torneo Clausura 1994 - Fecha 15"
+  ],
+  [
+    "Ferro",
+    "0",
+    "0",
+    "Lanus",
+    "Torneo Apertura 1993 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Ferro",
+    "Torneo Clausura 1993 - Fecha 16"
+  ],
+  [
+    "Ferro",
+    "3",
+    "0",
+    "Lanus",
+    "Torneo Apertura 1992 - Fecha 16"
+  ],
+  [
+    "Ferro",
+    "0",
+    "0",
+    "Lanus",
+    "Torneo Clausura 1991 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Ferro",
+    "Campeonato 1990/91 - Fecha 5"
+  ],
+  [
+    "Ferro",
+    "2",
+    "2",
+    "Lanus",
+    "Metropolitano 1977 - Fecha 28"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Ferro",
+    "Metropolitano 1977 - Fecha 5"
+  ],
+  [
+    "Ferro",
+    "1",
+    "0",
+    "Lanus",
+    "Metropolitano 1972 - Fecha 30"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "Ferro",
+    "Metropolitano 1972 - Fecha 13"
+  ],
+  [
+    "Ferro",
+    "1",
+    "1",
+    "Lanus",
+    "Nacional 1972 - Grupo Reclasificatorio"
+  ],
+  [
+    "Ferro",
+    "0",
+    "2",
+    "Lanus",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Ferro",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Lanus",
+    "2",
+    "0",
+    "Ferro",
+    "Nacional 1967 - Fecha 11"
+  ],
+  [
+    "Ferro",
+    "3",
+    "2",
+    "Lanus",
+    "Campeonato 1966 - Fecha 26"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Ferro",
+    "Campeonato 1966 - Fecha 7"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Ferro",
+    "Campeonato 1965 - Fecha 31"
+  ],
+  [
+    "Ferro",
+    "0",
+    "0",
+    "Lanus",
+    "Campeonato 1965 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Ferro",
+    "Campeonato 1961 - Fecha 28"
+  ],
+  [
+    "Ferro",
+    "0",
+    "1",
+    "Lanus",
+    "Campeonato 1961 - Fecha 13"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Ferro",
+    "Campeonato 1960 - Fecha 28"
+  ],
+  [
+    "Ferro",
+    "2",
+    "0",
+    "Lanus",
+    "Campeonato 1960 - Fecha 13"
+  ],
+  [
+    "Lanus",
+    "0",
+    "3",
+    "Ferro",
+    "Campeonato 1959 - Fecha 19"
+  ],
+  [
+    "Ferro",
+    "1",
+    "2",
+    "Lanus",
+    "Campeonato 1959 - Fecha 4"
+  ],
+  [
+    "Ferro",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1957 - Fecha 20"
+  ],
+  [
+    "Lanus",
+    "3",
+    "1",
+    "Ferro",
+    "Campeonato 1957 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "3",
+    "1",
+    "Ferro",
+    "Campeonato 1956 - Fecha 28"
+  ],
+  [
+    "Ferro",
+    "1",
+    "1",
+    "Lanus",
+    "Campeonato 1956 - Fecha 13"
+  ],
+  [
+    "Ferro",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1955 - Fecha 26"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "Ferro",
+    "Campeonato 1955 - Fecha 11"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Ferro",
+    "Campeonato 1954 - Fecha 29"
+  ],
+  [
+    "Ferro",
+    "1",
+    "2",
+    "Lanus",
+    "Campeonato 1954 - Fecha 14"
+  ],
+  [
+    "Ferro",
+    "0",
+    "4",
+    "Lanus",
+    "Campeonato 1953 - Fecha 29"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Ferro",
+    "Campeonato 1953 - Fecha 14"
+  ],
+  [
+    "Ferro",
+    "3",
+    "3",
+    "Lanus",
+    "Campeonato 1952 - Fecha 17"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "Ferro",
+    "Campeonato 1952 - Fecha 2"
+  ],
+  [
+    "Ferro",
+    "2",
+    "2",
+    "Lanus",
+    "Campeonato 1951 - Fecha 21"
+  ],
+  [
+    "Lanus",
+    "3",
+    "3",
+    "Ferro",
+    "Campeonato 1951 - Fecha 4"
+  ],
+  [
+    "Ferro",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1949 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "Ferro",
+    "Campeonato 1949 - Fecha 2"
+  ],
+  [
+    "Ferro",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1946 - Fecha 22"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Ferro",
+    "Campeonato 1946 - Fecha 7"
+  ],
+  [
+    "Lanus",
+    "3",
+    "1",
+    "Ferro",
+    "Campeonato 1945 - Fecha 19"
+  ],
+  [
+    "Ferro",
+    "4",
+    "2",
+    "Lanus",
+    "Campeonato 1945 - Fecha 4"
+  ],
+  [
+    "Ferro",
+    "2",
+    "0",
+    "Lanus",
+    "Campeonato 1944 - Fecha 20"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "Ferro",
+    "Campeonato 1944 - Fecha 5"
+  ],
+  [
+    "Ferro",
+    "3",
+    "2",
+    "Lanus",
+    "Campeonato 1943 - Fecha 17"
+  ],
+  [
+    "Lanus",
+    "2",
+    "0",
+    "Ferro",
+    "Campeonato 1943 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Ferro",
+    "Campeonato 1942 - Fecha 23"
+  ],
+  [
+    "Ferro",
+    "2",
+    "4",
+    "Lanus",
+    "Campeonato 1942 - Fecha 8"
+  ],
+  [
+    "Ferro",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1941 - Fecha 21"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Ferro",
+    "Campeonato 1941 - Fecha 6"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "Ferro",
+    "Campeonato 1940 - Fecha 21"
+  ],
+  [
+    "Ferro",
+    "3",
+    "1",
+    "Lanus",
+    "Campeonato 1940 - Fecha 4"
+  ],
+  [
+    "Lanus",
+    "9",
+    "1",
+    "Ferro",
+    "Campeonato 1939 - Fecha 19"
+  ],
+  [
+    "Ferro",
+    "1",
+    "4",
+    "Lanus",
+    "Campeonato 1939 - Fecha 2"
+  ],
+  [
+    "Ferro",
+    "2",
+    "2",
+    "Lanus",
+    "Campeonato 1938 - Fecha 21"
+  ],
+  [
+    "Lanus",
+    "3",
+    "3",
+    "Ferro",
+    "Campeonato 1938 - Fecha 4"
+  ],
+  [
+    "Ferro",
+    "3",
+    "2",
+    "Lanus",
+    "Campeonato 1937 - Fecha 34"
+  ],
+  [
+    "Lanus",
+    "3",
+    "1",
+    "Ferro",
+    "Campeonato 1937 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "2",
+    "3",
+    "Ferro",
+    "Campeonato 1936 - Fecha 13"
+  ],
+  [
+    "Ferro",
+    "3",
+    "1",
+    "Lanus",
+    "Copa de Honor 1936 - Fecha 13"
+  ],
+  [
+    "Ferro",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1935 - Fecha 21"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Ferro",
+    "Campeonato 1935 - Fecha 4"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "Ferro",
+    "Campeonato 1933 - Fecha 30"
+  ],
+  [
+    "Ferro",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1933 - Fecha 13"
+  ],
+  [
+    "Ferro",
+    "3",
+    "1",
+    "Lanus",
+    "Campeonato 1932 - Fecha 33"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Ferro",
+    "Campeonato 1932 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "2",
+    "3",
+    "Ferro",
+    "Campeonato 1931 - Fecha 20"
+  ],
+  [
+    "Ferro",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1931 - Fecha 3"
+  ],
+  [
+    "Lanus",
+    "9",
+    "1",
+    "Ferro",
+    "Campeonato 1939 - Fecha 19"
+  ],
+  [
+    "Ferro",
+    "0",
+    "7",
+    "Lanus",
+    "Torneo Clausura 2000 - Fecha 14"
+  ],
+  [
+    "Ferro",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1941 - Fecha 21"
+  ],
+  [
+    "Ferro",
+    "0",
+    "4",
+    "Lanus",
+    "Campeonato 1953 - Fecha 29"
+  ],
+  [
+    "Ferro",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1946 - Fecha 22"
+  ],
+  [
+    "Ferro",
+    "1",
+    "4",
+    "Lanus",
+    "Campeonato 1939 - Fecha 2"
+  ],
+  [
+    "Ferro",
+    "3",
+    "0",
+    "Lanus",
+    "Torneo Apertura 1992 - Fecha 16"
+  ],
+  [
+    "Ferro",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1931 - Fecha 3"
+  ],
+  [
+    "Ferro",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1935 - Fecha 21"
+  ],
+  [
+    "Ferro",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1957 - Fecha 20"
+  ],
+  [
+    "Lanus",
+    "0",
+    "3",
+    "Ferro",
+    "Campeonato 1959 - Fecha 19"
+  ]
+]

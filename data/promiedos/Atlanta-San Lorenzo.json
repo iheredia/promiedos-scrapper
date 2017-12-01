@@ -1,0 +1,716 @@
+[
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1984 - Fecha 36"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "1",
+    "Atlanta",
+    "Metropolitano 1984 - Fecha 17"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1979 - Grupo B"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Atlanta",
+    "Metropolitano 1979 - Grupo B"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "2",
+    "Atlanta",
+    "Metropolitano 1978 - Fecha 34"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1978 - Fecha 13"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "1",
+    "Atlanta",
+    "Nacional 1978 - Grupo D"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Nacional 1978 - Grupo D"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "2",
+    "Atlanta",
+    "Metropolitano 1977 - Fecha 40"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1977 - Fecha 17"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "2",
+    "Atlanta",
+    "Metropolitano 1975 - Fecha 24"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "2",
+    "San Lorenzo",
+    "Metropolitano 1975 - Fecha 5"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Metropolitano 1973 - Fecha 28"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "2",
+    "Atlanta",
+    "Metropolitano 1973 - Fecha 11"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Nacional 1973 - Ronda Final"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "1",
+    "Atlanta",
+    "Metropolitano 1972 - Fecha 30"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1972 - Fecha 13"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Nacional 1972 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1971 - Fecha 28"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Atlanta",
+    "Metropolitano 1971 - Fecha 9"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Atlanta",
+    "Nacional 1971 - Grupo B"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1970 - Fecha 10"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "2",
+    "San Lorenzo",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "2",
+    "Atlanta",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Atlanta",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "5",
+    "San Lorenzo",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "0",
+    "Atlanta",
+    "Campeonato 1966 - Fecha 21"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1966 - Fecha 2"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "0",
+    "Atlanta",
+    "Campeonato 1965 - Fecha 27"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1965 - Fecha 10"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1964 - Fecha 19"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Atlanta",
+    "Campeonato 1964 - Fecha 4"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "2",
+    "Atlanta",
+    "Campeonato 1963 - Fecha 21"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1963 - Fecha 8"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1962 - Fecha 25"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Atlanta",
+    "Campeonato 1962 - Fecha 10"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "0",
+    "Atlanta",
+    "Campeonato 1961 - Fecha 23"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1961 - Fecha 8"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "1",
+    "Atlanta",
+    "Campeonato 1960 - Fecha 17"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1960 - Fecha 2"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Atlanta",
+    "Campeonato 1959 - Fecha 18"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "4",
+    "San Lorenzo",
+    "Campeonato 1959 - Fecha 3"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1958 - Fecha 21"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "3",
+    "Atlanta",
+    "Campeonato 1958 - Fecha 6"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "2",
+    "Atlanta",
+    "Campeonato 1957 - Fecha 25"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1957 - Fecha 10"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1952 - Fecha 23"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "3",
+    "Atlanta",
+    "Campeonato 1952 - Fecha 8"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "2",
+    "Atlanta",
+    "Campeonato 1951 - Fecha 29"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1951 - Fecha 12"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Atlanta",
+    "Campeonato 1950 - Fecha 18"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1950 - Fecha 1"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Atlanta",
+    "Campeonato 1949 - Fecha 26"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1949 - Fecha 9"
+  ],
+  [
+    "San Lorenzo",
+    "7",
+    "0",
+    "Atlanta",
+    "Campeonato 1947 - Fecha 25"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1947 - Fecha 10"
+  ],
+  [
+    "San Lorenzo",
+    "6",
+    "1",
+    "Atlanta",
+    "Campeonato 1946 - Fecha 22"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1946 - Fecha 7"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "2",
+    "Atlanta",
+    "Campeonato 1945 - Fecha 21"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1945 - Fecha 6"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1944 - Fecha 17"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Atlanta",
+    "Campeonato 1944 - Fecha 2"
+  ],
+  [
+    "Atlanta",
+    "4",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1943 - Fecha 18"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "3",
+    "Atlanta",
+    "Campeonato 1943 - Fecha 3"
+  ],
+  [
+    "Atlanta",
+    "4",
+    "4",
+    "San Lorenzo",
+    "Campeonato 1942 - Fecha 19"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Atlanta",
+    "Campeonato 1942 - Fecha 4"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1941 - Fecha 30"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "3",
+    "Atlanta",
+    "Campeonato 1941 - Fecha 15"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1940 - Fecha 21"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "4",
+    "Atlanta",
+    "Campeonato 1940 - Fecha 4"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1939 - Fecha 34"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Atlanta",
+    "Campeonato 1939 - Fecha 17"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1938 - Fecha 23"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Atlanta",
+    "Campeonato 1938 - Fecha 6"
+  ],
+  [
+    "Atlanta",
+    "4",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1937 - Fecha 34"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Atlanta",
+    "Campeonato 1937 - Fecha 16"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "3",
+    "Atlanta",
+    "Campeonato 1936 - Fecha 16"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "3",
+    "San Lorenzo",
+    "Copa de Honor 1936 - Fecha 16"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1935 - Fecha 22"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "0",
+    "Atlanta",
+    "Campeonato 1935 - Fecha 5"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "2",
+    "Atlanta",
+    "Campeonato 1933 - Fecha 30"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1933 - Fecha 13"
+  ],
+  [
+    "San Lorenzo",
+    "6",
+    "3",
+    "Atlanta",
+    "Campeonato 1932 - Fecha 20"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "5",
+    "San Lorenzo",
+    "Campeonato 1932 - Fecha 3"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "3",
+    "Atlanta",
+    "Campeonato 1931 - Fecha 32"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1931 - Fecha 15"
+  ],
+  [
+    "San Lorenzo",
+    "7",
+    "0",
+    "Atlanta",
+    "Campeonato 1947 - Fecha 25"
+  ],
+  [
+    "San Lorenzo",
+    "6",
+    "1",
+    "Atlanta",
+    "Campeonato 1946 - Fecha 22"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "0",
+    "Atlanta",
+    "Campeonato 1935 - Fecha 5"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "5",
+    "San Lorenzo",
+    "Campeonato 1932 - Fecha 3"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "5",
+    "San Lorenzo",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "4",
+    "San Lorenzo",
+    "Campeonato 1959 - Fecha 3"
+  ],
+  [
+    "San Lorenzo",
+    "6",
+    "3",
+    "Atlanta",
+    "Campeonato 1932 - Fecha 20"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "2",
+    "Atlanta",
+    "Campeonato 1933 - Fecha 30"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "2",
+    "Atlanta",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "4",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1937 - Fecha 34"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Atlanta",
+    "Campeonato 1950 - Fecha 18"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Atlanta",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Atlanta",
+    "Campeonato 1942 - Fecha 4"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Atlanta",
+    "Metropolitano 1971 - Fecha 9"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "3",
+    "Atlanta",
+    "Campeonato 1958 - Fecha 6"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1965 - Fecha 10"
+  ]
+]

@@ -1,0 +1,513 @@
+[
+  [
+    "Boca Juniors",
+    "4",
+    "1",
+    "Quilmes",
+    "Campeonato 2016/17 - Fecha 4"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "1",
+    "Quilmes",
+    "Campeonato 2015 - Fecha 17"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "0",
+    "Quilmes",
+    "Torneo de Transicion 2014 - Fecha 9"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "0",
+    "Boca Juniors",
+    "Torneo Final 2014 - Fecha 9"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "0",
+    "Quilmes",
+    "Torneo Inicial 2013 - Fecha 9"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "2",
+    "Quilmes",
+    "Torneo Final 2013 - Fecha 1"
+  ],
+  [
+    "Quilmes",
+    "3",
+    "0",
+    "Boca Juniors",
+    "Torneo Inicial 2012 - Fecha 1"
+  ],
+  [
+    "Quilmes",
+    "2",
+    "2",
+    "Boca Juniors",
+    "Torneo Clausura 2011 - Fecha 17"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "0",
+    "Quilmes",
+    "Torneo Apertura 2010 - Fecha 17"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "2",
+    "Boca Juniors",
+    "Torneo Clausura 2007 - Fecha 15"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "1",
+    "Quilmes",
+    "Torneo Apertura 2006 - Fecha 15"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "1",
+    "Quilmes",
+    "Torneo Clausura 2006 - Fecha 9"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "4",
+    "Boca Juniors",
+    "Torneo Apertura 2005 - Fecha 9"
+  ],
+  [
+    "Boca Juniors",
+    "0",
+    "0",
+    "Quilmes",
+    "Torneo Clausura 2005 - Fecha 18"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "1",
+    "Boca Juniors",
+    "Torneo Apertura 2004 - Fecha 18"
+  ],
+  [
+    "Quilmes",
+    "2",
+    "0",
+    "Boca Juniors",
+    "Torneo Clausura 2004 - Fecha 15"
+  ],
+  [
+    "Boca Juniors",
+    "0",
+    "0",
+    "Quilmes",
+    "Torneo Apertura 2003 - Fecha 15"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "0",
+    "Quilmes",
+    "Torneo Clausura 1992 - Fecha 8"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "2",
+    "Boca Juniors",
+    "Torneo Apertura 1991 - Fecha 8"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "0",
+    "Quilmes",
+    "Metropolitano 1982 - Fecha 33"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "1",
+    "Boca Juniors",
+    "Metropolitano 1982 - Fecha 14"
+  ],
+  [
+    "Quilmes",
+    "2",
+    "2",
+    "Boca Juniors",
+    "Metropolitano 1980 - Fecha 21"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "1",
+    "Quilmes",
+    "Metropolitano 1980 - Fecha 2"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "0",
+    "Boca Juniors",
+    "Metropolitano 1978 - Fecha 28"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "1",
+    "Quilmes",
+    "Metropolitano 1978 - Fecha 7"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "0",
+    "Boca Juniors",
+    "Metropolitano 1977 - Fecha 38"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "1",
+    "Quilmes",
+    "Metropolitano 1977 - Fecha 15"
+  ],
+  [
+    "Boca Juniors",
+    "0",
+    "0",
+    "Quilmes",
+    "Nacional 1977 - Grupo B"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "1",
+    "Boca Juniors",
+    "Nacional 1977 - Grupo B"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "1",
+    "Quilmes",
+    "Metropolitano 1976 - Ronda Final"
+  ],
+  [
+    "Boca Juniors",
+    "0",
+    "1",
+    "Quilmes",
+    "Nacional 1976 - Grupo A"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "1",
+    "Boca Juniors",
+    "Nacional 1976 - Grupo A"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "1",
+    "Boca Juniors",
+    "Metropolitano 1970 - Fecha 17"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Quilmes",
+    "Nacional 1969 - Fecha 11"
+  ],
+  [
+    "Quilmes",
+    "2",
+    "1",
+    "Boca Juniors",
+    "Metropolitano 1967 - Grupo A"
+  ],
+  [
+    "Boca Juniors",
+    "0",
+    "0",
+    "Quilmes",
+    "Metropolitano 1967 - Grupo A"
+  ],
+  [
+    "Boca Juniors",
+    "2",
+    "0",
+    "Quilmes",
+    "Nacional 1967 - Fecha 3"
+  ],
+  [
+    "Boca Juniors",
+    "1",
+    "1",
+    "Quilmes",
+    "Campeonato 1966 - Fecha 21"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "3",
+    "Boca Juniors",
+    "Campeonato 1966 - Fecha 2"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1962 - Fecha 28"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "1",
+    "Quilmes",
+    "Campeonato 1962 - Fecha 13"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "3",
+    "Quilmes",
+    "Campeonato 1951 - Fecha 33"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1951 - Fecha 16"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "0",
+    "Quilmes",
+    "Campeonato 1950 - Fecha 29"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "1",
+    "Boca Juniors",
+    "Campeonato 1950 - Fecha 12"
+  ],
+  [
+    "Boca Juniors",
+    "7",
+    "3",
+    "Quilmes",
+    "Campeonato 1937 - Fecha 33"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1937 - Fecha 15"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Quilmes",
+    "Campeonato 1936 - Fecha 8"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "1",
+    "Boca Juniors",
+    "Copa de Honor 1936 - Fecha 8"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "5",
+    "Boca Juniors",
+    "Campeonato 1935 - Fecha 24"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "1",
+    "Quilmes",
+    "Campeonato 1935 - Fecha 7"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "0",
+    "Boca Juniors",
+    "Campeonato 1933 - Fecha 20"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "0",
+    "Quilmes",
+    "Campeonato 1933 - Fecha 3"
+  ],
+  [
+    "Boca Juniors",
+    "7",
+    "0",
+    "Quilmes",
+    "Campeonato 1932 - Fecha 27"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "3",
+    "Boca Juniors",
+    "Campeonato 1932 - Fecha 10"
+  ],
+  [
+    "Quilmes",
+    "1",
+    "2",
+    "Boca Juniors",
+    "Campeonato 1931 - Fecha 20"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "1",
+    "Quilmes",
+    "Campeonato 1931 - Fecha 3"
+  ],
+  [
+    "Boca Juniors",
+    "7",
+    "0",
+    "Quilmes",
+    "Campeonato 1932 - Fecha 27"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "5",
+    "Boca Juniors",
+    "Campeonato 1935 - Fecha 24"
+  ],
+  [
+    "Boca Juniors",
+    "7",
+    "3",
+    "Quilmes",
+    "Campeonato 1937 - Fecha 33"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "1",
+    "Quilmes",
+    "Campeonato 1931 - Fecha 3"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "1",
+    "Quilmes",
+    "Campeonato 1935 - Fecha 7"
+  ],
+  [
+    "Boca Juniors",
+    "5",
+    "1",
+    "Quilmes",
+    "Campeonato 1962 - Fecha 13"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "0",
+    "Quilmes",
+    "Campeonato 1933 - Fecha 3"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "0",
+    "Quilmes",
+    "Campeonato 1950 - Fecha 29"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "4",
+    "Boca Juniors",
+    "Torneo Apertura 2005 - Fecha 9"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "1",
+    "Quilmes",
+    "Metropolitano 1977 - Fecha 15"
+  ],
+  [
+    "Boca Juniors",
+    "4",
+    "1",
+    "Quilmes",
+    "Campeonato 2016/17 - Fecha 4"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Quilmes",
+    "Campeonato 1936 - Fecha 8"
+  ],
+  [
+    "Boca Juniors",
+    "3",
+    "0",
+    "Quilmes",
+    "Nacional 1969 - Fecha 11"
+  ],
+  [
+    "Quilmes",
+    "3",
+    "0",
+    "Boca Juniors",
+    "Torneo Inicial 2012 - Fecha 1"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "3",
+    "Boca Juniors",
+    "Campeonato 1932 - Fecha 10"
+  ],
+  [
+    "Quilmes",
+    "0",
+    "3",
+    "Boca Juniors",
+    "Campeonato 1966 - Fecha 2"
+  ]
+]

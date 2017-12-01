@@ -1,0 +1,996 @@
+[
+  [
+    "Lanus",
+    "1",
+    "3",
+    "River Plate",
+    "Campeonato 2016/17 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Lanus",
+    "Campeonato 2015 - Fecha 25"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Torneo de Transicion 2014 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Lanus",
+    "Torneo Final 2014 - Fecha 9"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "River Plate",
+    "Torneo Inicial 2013 - Fecha 9"
+  ],
+  [
+    "Lanus",
+    "5",
+    "1",
+    "River Plate",
+    "Torneo Final 2013 - Fecha 18"
+  ],
+  [
+    "River Plate",
+    "1",
+    "0",
+    "Lanus",
+    "Torneo Inicial 2012 - Fecha 18"
+  ],
+  [
+    "River Plate",
+    "1",
+    "2",
+    "Lanus",
+    "Torneo Clausura 2011 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "1",
+    "4",
+    "River Plate",
+    "Torneo Apertura 2010 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "River Plate",
+    "Torneo Clausura 2010 - Fecha 12"
+  ],
+  [
+    "River Plate",
+    "0",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2009 - Fecha 12"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Lanus",
+    "Torneo Clausura 2009 - Fecha 13"
+  ],
+  [
+    "Lanus",
+    "2",
+    "0",
+    "River Plate",
+    "Torneo Apertura 2008 - Fecha 13"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "River Plate",
+    "Torneo Clausura 2008 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "3",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2007 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "1",
+    "0",
+    "Lanus",
+    "Torneo Clausura 2007 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "River Plate",
+    "Torneo Apertura 2006 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "4",
+    "1",
+    "River Plate",
+    "Torneo Clausura 2006 - Fecha 13"
+  ],
+  [
+    "River Plate",
+    "4",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2005 - Fecha 13"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Lanus",
+    "Torneo Clausura 2005 - Fecha 11"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "River Plate",
+    "Torneo Apertura 2004 - Fecha 11"
+  ],
+  [
+    "River Plate",
+    "2",
+    "1",
+    "Lanus",
+    "Torneo Clausura 2004 - Fecha 17"
+  ],
+  [
+    "Lanus",
+    "2",
+    "0",
+    "River Plate",
+    "Torneo Apertura 2003 - Fecha 17"
+  ],
+  [
+    "Lanus",
+    "3",
+    "4",
+    "River Plate",
+    "Torneo Clausura 2003 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "1",
+    "2",
+    "Lanus",
+    "Torneo Apertura 2002 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "River Plate",
+    "Torneo Clausura 2002 - Fecha 17"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Lanus",
+    "Torneo Apertura 2001 - Fecha 17"
+  ],
+  [
+    "River Plate",
+    "1",
+    "2",
+    "Lanus",
+    "Torneo Clausura 2001 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "River Plate",
+    "Torneo Apertura 2000 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Torneo Clausura 2000 - Fecha 7"
+  ],
+  [
+    "River Plate",
+    "3",
+    "1",
+    "Lanus",
+    "Torneo Apertura 1999 - Fecha 7"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Torneo Clausura 1999 - Fecha 8"
+  ],
+  [
+    "River Plate",
+    "0",
+    "1",
+    "Lanus",
+    "Torneo Apertura 1998 - Fecha 8"
+  ],
+  [
+    "River Plate",
+    "0",
+    "4",
+    "Lanus",
+    "Torneo Clausura 1998 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "1",
+    "3",
+    "River Plate",
+    "Torneo Apertura 1997 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "3",
+    "0",
+    "Lanus",
+    "Torneo Clausura 1997 - Fecha 12"
+  ],
+  [
+    "Lanus",
+    "3",
+    "1",
+    "River Plate",
+    "Torneo Apertura 1996 - Fecha 12"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "River Plate",
+    "Torneo Clausura 1996 - Fecha 14"
+  ],
+  [
+    "River Plate",
+    "0",
+    "1",
+    "Lanus",
+    "Torneo Apertura 1995 - Fecha 14"
+  ],
+  [
+    "River Plate",
+    "2",
+    "3",
+    "Lanus",
+    "Torneo Clausura 1995 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Torneo Apertura 1994 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Torneo Clausura 1994 - Fecha 11"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Lanus",
+    "Torneo Apertura 1993 - Fecha 11"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Lanus",
+    "Torneo Clausura 1993 - Fecha 17"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "River Plate",
+    "Torneo Apertura 1992 - Fecha 17"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Torneo Clausura 1991 - Fecha 2"
+  ],
+  [
+    "River Plate",
+    "0",
+    "0",
+    "Lanus",
+    "Campeonato 1990/91 - Fecha 2"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Lanus",
+    "Metropolitano 1977 - Fecha 38"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "River Plate",
+    "Metropolitano 1977 - Fecha 15"
+  ],
+  [
+    "River Plate",
+    "2",
+    "1",
+    "Lanus",
+    "Metropolitano 1972 - Fecha 32"
+  ],
+  [
+    "Lanus",
+    "2",
+    "3",
+    "River Plate",
+    "Metropolitano 1972 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "1",
+    "2",
+    "River Plate",
+    "Nacional 1972 - Grupo A"
+  ],
+  [
+    "River Plate",
+    "3",
+    "1",
+    "Lanus",
+    "Metropolitano 1970 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Lanus",
+    "Nacional 1969 - Fecha 13"
+  ],
+  [
+    "River Plate",
+    "3",
+    "0",
+    "Lanus",
+    "Nacional 1968 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "River Plate",
+    "Nacional 1967 - Fecha 3"
+  ],
+  [
+    "River Plate",
+    "1",
+    "0",
+    "Lanus",
+    "Campeonato 1966 - Fecha 22"
+  ],
+  [
+    "Lanus",
+    "1",
+    "3",
+    "River Plate",
+    "Campeonato 1966 - Fecha 3"
+  ],
+  [
+    "River Plate",
+    "1",
+    "0",
+    "Lanus",
+    "Campeonato 1965 - Fecha 20"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "River Plate",
+    "Campeonato 1965 - Fecha 3"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Campeonato 1961 - Fecha 18"
+  ],
+  [
+    "River Plate",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1961 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Campeonato 1960 - Fecha 24"
+  ],
+  [
+    "River Plate",
+    "2",
+    "2",
+    "Lanus",
+    "Campeonato 1960 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1959 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "River Plate",
+    "Campeonato 1959 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Campeonato 1958 - Fecha 30"
+  ],
+  [
+    "River Plate",
+    "3",
+    "2",
+    "Lanus",
+    "Campeonato 1958 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "River Plate",
+    "Campeonato 1957 - Fecha 17"
+  ],
+  [
+    "River Plate",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1957 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "1",
+    "3",
+    "River Plate",
+    "Campeonato 1956 - Fecha 24"
+  ],
+  [
+    "River Plate",
+    "0",
+    "0",
+    "Lanus",
+    "Campeonato 1956 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "1",
+    "0",
+    "Lanus",
+    "Campeonato 1955 - Fecha 22"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "River Plate",
+    "Campeonato 1955 - Fecha 7"
+  ],
+  [
+    "Lanus",
+    "0",
+    "3",
+    "River Plate",
+    "Campeonato 1954 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1954 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1953 - Fecha 24"
+  ],
+  [
+    "Lanus",
+    "1",
+    "2",
+    "River Plate",
+    "Campeonato 1953 - Fecha 9"
+  ],
+  [
+    "River Plate",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1952 - Fecha 21"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Campeonato 1952 - Fecha 6"
+  ],
+  [
+    "Lanus",
+    "1",
+    "2",
+    "River Plate",
+    "Campeonato 1951 - Fecha 18"
+  ],
+  [
+    "River Plate",
+    "1",
+    "1",
+    "Lanus",
+    "Campeonato 1951 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "River Plate",
+    "Campeonato 1949 - Fecha 28"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Lanus",
+    "Campeonato 1949 - Fecha 11"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Lanus",
+    "Campeonato 1948 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Campeonato 1948 - Fecha 4"
+  ],
+  [
+    "River Plate",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1947 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "1",
+    "5",
+    "River Plate",
+    "Campeonato 1947 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "1",
+    "2",
+    "Lanus",
+    "Campeonato 1946 - Fecha 26"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "River Plate",
+    "Campeonato 1946 - Fecha 11"
+  ],
+  [
+    "River Plate",
+    "2",
+    "2",
+    "Lanus",
+    "Campeonato 1945 - Fecha 20"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "River Plate",
+    "Campeonato 1945 - Fecha 5"
+  ],
+  [
+    "River Plate",
+    "2",
+    "0",
+    "Lanus",
+    "Campeonato 1944 - Fecha 28"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "River Plate",
+    "Campeonato 1944 - Fecha 13"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "River Plate",
+    "Campeonato 1943 - Fecha 22"
+  ],
+  [
+    "River Plate",
+    "0",
+    "3",
+    "Lanus",
+    "Campeonato 1943 - Fecha 7"
+  ],
+  [
+    "Lanus",
+    "1",
+    "3",
+    "River Plate",
+    "Campeonato 1942 - Fecha 17"
+  ],
+  [
+    "River Plate",
+    "5",
+    "0",
+    "Lanus",
+    "Campeonato 1942 - Fecha 2"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1941 - Fecha 26"
+  ],
+  [
+    "Lanus",
+    "2",
+    "4",
+    "River Plate",
+    "Campeonato 1941 - Fecha 11"
+  ],
+  [
+    "River Plate",
+    "7",
+    "1",
+    "Lanus",
+    "Campeonato 1940 - Fecha 31"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Campeonato 1940 - Fecha 14"
+  ],
+  [
+    "River Plate",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1939 - Fecha 33"
+  ],
+  [
+    "Lanus",
+    "1",
+    "5",
+    "River Plate",
+    "Campeonato 1939 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "1",
+    "2",
+    "River Plate",
+    "Campeonato 1938 - Fecha 22"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1938 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "2",
+    "3",
+    "River Plate",
+    "Campeonato 1937 - Fecha 20"
+  ],
+  [
+    "River Plate",
+    "3",
+    "2",
+    "Lanus",
+    "Campeonato 1937 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "0",
+    "3",
+    "River Plate",
+    "Campeonato 1936 - Fecha 2"
+  ],
+  [
+    "River Plate",
+    "1",
+    "0",
+    "Lanus",
+    "Copa de Honor 1936 - Fecha 2"
+  ],
+  [
+    "River Plate",
+    "4",
+    "2",
+    "Lanus",
+    "Campeonato 1935 - Fecha 33"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "River Plate",
+    "Campeonato 1935 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "5",
+    "3",
+    "Lanus",
+    "Campeonato 1933 - Fecha 20"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "River Plate",
+    "Campeonato 1933 - Fecha 3"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "River Plate",
+    "Campeonato 1932 - Fecha 28"
+  ],
+  [
+    "River Plate",
+    "4",
+    "1",
+    "Lanus",
+    "Campeonato 1932 - Fecha 11"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "River Plate",
+    "Campeonato 1931 - Fecha 33"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1931 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "7",
+    "1",
+    "Lanus",
+    "Campeonato 1940 - Fecha 31"
+  ],
+  [
+    "River Plate",
+    "5",
+    "0",
+    "Lanus",
+    "Campeonato 1942 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "5",
+    "1",
+    "River Plate",
+    "Torneo Final 2013 - Fecha 18"
+  ],
+  [
+    "Lanus",
+    "1",
+    "5",
+    "River Plate",
+    "Campeonato 1939 - Fecha 16"
+  ],
+  [
+    "Lanus",
+    "1",
+    "5",
+    "River Plate",
+    "Campeonato 1947 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Lanus",
+    "Torneo Apertura 2001 - Fecha 17"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1931 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1938 - Fecha 5"
+  ],
+  [
+    "River Plate",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1941 - Fecha 26"
+  ],
+  [
+    "River Plate",
+    "0",
+    "4",
+    "Lanus",
+    "Torneo Clausura 1998 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1939 - Fecha 33"
+  ],
+  [
+    "River Plate",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1954 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1957 - Fecha 2"
+  ],
+  [
+    "River Plate",
+    "5",
+    "2",
+    "Lanus",
+    "Campeonato 1961 - Fecha 1"
+  ],
+  [
+    "River Plate",
+    "4",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2005 - Fecha 13"
+  ],
+  [
+    "Lanus",
+    "4",
+    "1",
+    "River Plate",
+    "Torneo Clausura 2006 - Fecha 13"
+  ],
+  [
+    "River Plate",
+    "4",
+    "1",
+    "Lanus",
+    "Campeonato 1932 - Fecha 11"
+  ],
+  [
+    "Lanus",
+    "1",
+    "4",
+    "River Plate",
+    "Torneo Apertura 2010 - Fecha 19"
+  ],
+  [
+    "River Plate",
+    "3",
+    "0",
+    "Lanus",
+    "Torneo Clausura 1997 - Fecha 12"
+  ],
+  [
+    "River Plate",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1947 - Fecha 16"
+  ],
+  [
+    "River Plate",
+    "3",
+    "0",
+    "Lanus",
+    "Nacional 1968 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "0",
+    "3",
+    "River Plate",
+    "Campeonato 1936 - Fecha 2"
+  ],
+  [
+    "River Plate",
+    "0",
+    "3",
+    "Lanus",
+    "Campeonato 1943 - Fecha 7"
+  ],
+  [
+    "Lanus",
+    "0",
+    "3",
+    "River Plate",
+    "Campeonato 1954 - Fecha 16"
+  ]
+]

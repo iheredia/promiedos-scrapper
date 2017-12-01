@@ -1,0 +1,632 @@
+[
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Velez",
+    "Campeonato 2016/17 - Fecha 7"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Velez",
+    "Torneo 2016 - Fecha 15"
+  ],
+  [
+    "Banfield",
+    "1",
+    "3",
+    "Velez",
+    "Campeonato 2015 - Fecha 13"
+  ],
+  [
+    "Velez",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo de Transicion 2014 - Fecha 13"
+  ],
+  [
+    "Banfield",
+    "0",
+    "4",
+    "Velez",
+    "Torneo Clausura 2012 - Fecha 2"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Banfield",
+    "Torneo Apertura 2011 - Fecha 2"
+  ],
+  [
+    "Velez",
+    "2",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2011 - Fecha 13"
+  ],
+  [
+    "Banfield",
+    "2",
+    "3",
+    "Velez",
+    "Torneo Apertura 2010 - Fecha 13"
+  ],
+  [
+    "Velez",
+    "0",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2010 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Velez",
+    "Torneo Apertura 2009 - Fecha 14"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Banfield",
+    "Torneo Clausura 2009 - Fecha 8"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Velez",
+    "Torneo Apertura 2008 - Fecha 8"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2008 - Fecha 3"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Velez",
+    "Torneo Apertura 2007 - Fecha 3"
+  ],
+  [
+    "Banfield",
+    "2",
+    "3",
+    "Velez",
+    "Torneo Clausura 2007 - Fecha 10"
+  ],
+  [
+    "Velez",
+    "2",
+    "2",
+    "Banfield",
+    "Torneo Apertura 2006 - Fecha 10"
+  ],
+  [
+    "Velez",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2006 - Fecha 9"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Velez",
+    "Torneo Apertura 2005 - Fecha 9"
+  ],
+  [
+    "Velez",
+    "2",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2005 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Velez",
+    "Torneo Apertura 2004 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Velez",
+    "Torneo Clausura 2004 - Fecha 2"
+  ],
+  [
+    "Velez",
+    "0",
+    "3",
+    "Banfield",
+    "Torneo Apertura 2003 - Fecha 2"
+  ],
+  [
+    "Banfield",
+    "2",
+    "0",
+    "Velez",
+    "Torneo Clausura 2003 - Fecha 10"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Banfield",
+    "Torneo Apertura 2002 - Fecha 10"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2002 - Fecha 18"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Velez",
+    "Torneo Apertura 2001 - Fecha 18"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Banfield",
+    "Torneo Clausura 1997 - Fecha 6"
+  ],
+  [
+    "Banfield",
+    "1",
+    "3",
+    "Velez",
+    "Torneo Apertura 1996 - Fecha 6"
+  ],
+  [
+    "Velez",
+    "3",
+    "2",
+    "Banfield",
+    "Torneo Clausura 1996 - Fecha 1"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Velez",
+    "Torneo Apertura 1995 - Fecha 1"
+  ],
+  [
+    "Velez",
+    "2",
+    "0",
+    "Banfield",
+    "Torneo Clausura 1995 - Fecha 2"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Velez",
+    "Torneo Apertura 1994 - Fecha 2"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Velez",
+    "Torneo Clausura 1994 - Fecha 19"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Banfield",
+    "Torneo Apertura 1993 - Fecha 19"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1987/88 - Fecha 37"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Velez",
+    "Campeonato 1987/88 - Fecha 18"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Velez",
+    "Metropolitano 1978 - Fecha 34"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Banfield",
+    "Metropolitano 1978 - Fecha 13"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Banfield",
+    "Metropolitano 1977 - Fecha 38"
+  ],
+  [
+    "Banfield",
+    "2",
+    "3",
+    "Velez",
+    "Metropolitano 1977 - Fecha 15"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Velez",
+    "Metropolitano 1976 - Grupo Descenso"
+  ],
+  [
+    "Velez",
+    "3",
+    "1",
+    "Banfield",
+    "Metropolitano 1975 - Fecha 22"
+  ],
+  [
+    "Banfield",
+    "3",
+    "2",
+    "Velez",
+    "Metropolitano 1975 - Fecha 3"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Banfield",
+    "Metropolitano 1974 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Velez",
+    "Metropolitano 1974 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Velez",
+    "Metropolitano 1972 - Fecha 30"
+  ],
+  [
+    "Velez",
+    "2",
+    "2",
+    "Banfield",
+    "Metropolitano 1972 - Fecha 13"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Banfield",
+    "Metropolitano 1971 - Fecha 30"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Velez",
+    "Metropolitano 1971 - Fecha 11"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Banfield",
+    "Metropolitano 1970 - Fecha 12"
+  ],
+  [
+    "Banfield",
+    "1",
+    "5",
+    "Velez",
+    "Nacional 1970 - Grupo B"
+  ],
+  [
+    "Velez",
+    "3",
+    "1",
+    "Banfield",
+    "Nacional 1970 - Grupo B"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Velez",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Velez",
+    "1",
+    "2",
+    "Banfield",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Banfield",
+    "Campeonato 1966 - Fecha 27"
+  ],
+  [
+    "Banfield",
+    "2",
+    "0",
+    "Velez",
+    "Campeonato 1966 - Fecha 8"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Velez",
+    "Campeonato 1965 - Fecha 30"
+  ],
+  [
+    "Velez",
+    "3",
+    "1",
+    "Banfield",
+    "Campeonato 1965 - Fecha 13"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Velez",
+    "Campeonato 1964 - Fecha 26"
+  ],
+  [
+    "Velez",
+    "0",
+    "2",
+    "Banfield",
+    "Campeonato 1964 - Fecha 11"
+  ],
+  [
+    "Velez",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1963 - Fecha 18"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Velez",
+    "Campeonato 1963 - Fecha 5"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Banfield",
+    "Campeonato 1954 - Fecha 29"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Velez",
+    "Campeonato 1954 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "3",
+    "3",
+    "Velez",
+    "Campeonato 1953 - Fecha 29"
+  ],
+  [
+    "Velez",
+    "4",
+    "0",
+    "Banfield",
+    "Campeonato 1953 - Fecha 14"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Banfield",
+    "Campeonato 1952 - Fecha 16"
+  ],
+  [
+    "Banfield",
+    "2",
+    "0",
+    "Velez",
+    "Campeonato 1952 - Fecha 1"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Velez",
+    "Campeonato 1951 - Fecha 21"
+  ],
+  [
+    "Velez",
+    "3",
+    "2",
+    "Banfield",
+    "Campeonato 1951 - Fecha 4"
+  ],
+  [
+    "Velez",
+    "0",
+    "2",
+    "Banfield",
+    "Campeonato 1950 - Fecha 20"
+  ],
+  [
+    "Banfield",
+    "1",
+    "3",
+    "Velez",
+    "Campeonato 1950 - Fecha 3"
+  ],
+  [
+    "Banfield",
+    "2",
+    "0",
+    "Velez",
+    "Campeonato 1949 - Fecha 19"
+  ],
+  [
+    "Velez",
+    "2",
+    "4",
+    "Banfield",
+    "Campeonato 1949 - Fecha 2"
+  ],
+  [
+    "Banfield",
+    "3",
+    "1",
+    "Velez",
+    "Campeonato 1948 - Fecha 26"
+  ],
+  [
+    "Velez",
+    "2",
+    "1",
+    "Banfield",
+    "Campeonato 1948 - Fecha 11"
+  ],
+  [
+    "Velez",
+    "2",
+    "0",
+    "Banfield",
+    "Campeonato 1947 - Fecha 21"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Velez",
+    "Campeonato 1947 - Fecha 6"
+  ],
+  [
+    "Velez",
+    "3",
+    "1",
+    "Banfield",
+    "Campeonato 1944 - Fecha 27"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Velez",
+    "Campeonato 1944 - Fecha 12"
+  ],
+  [
+    "Velez",
+    "3",
+    "3",
+    "Banfield",
+    "Campeonato 1940 - Fecha 19"
+  ],
+  [
+    "Banfield",
+    "1",
+    "5",
+    "Velez",
+    "Nacional 1970 - Grupo B"
+  ],
+  [
+    "Velez",
+    "4",
+    "0",
+    "Banfield",
+    "Campeonato 1953 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "0",
+    "4",
+    "Velez",
+    "Torneo Clausura 2012 - Fecha 2"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Velez",
+    "Torneo Apertura 2009 - Fecha 14"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Banfield",
+    "Torneo Apertura 2011 - Fecha 2"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2008 - Fecha 3"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Banfield",
+    "Torneo Apertura 2002 - Fecha 10"
+  ],
+  [
+    "Velez",
+    "3",
+    "0",
+    "Banfield",
+    "Torneo Clausura 2002 - Fecha 18"
+  ],
+  [
+    "Velez",
+    "0",
+    "3",
+    "Banfield",
+    "Torneo Apertura 2003 - Fecha 2"
+  ]
+]

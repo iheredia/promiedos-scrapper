@@ -1,0 +1,471 @@
+[
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "Banfield",
+    "Metropolitano 1978 - Fecha 31"
+  ],
+  [
+    "Banfield",
+    "0",
+    "3",
+    "Atlanta",
+    "Metropolitano 1978 - Fecha 10"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Atlanta",
+    "Metropolitano 1977 - Fecha 42"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "0",
+    "Banfield",
+    "Metropolitano 1977 - Fecha 19"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Atlanta",
+    "Metropolitano 1976 - Grupo Descenso"
+  ],
+  [
+    "Banfield",
+    "5",
+    "2",
+    "Atlanta",
+    "Metropolitano 1976 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "0",
+    "Banfield",
+    "Metropolitano 1976 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "0",
+    "Banfield",
+    "Nacional 1976 - Grupo B"
+  ],
+  [
+    "Banfield",
+    "5",
+    "1",
+    "Atlanta",
+    "Nacional 1976 - Grupo B"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "Banfield",
+    "Metropolitano 1975 - Fecha 33"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Atlanta",
+    "Metropolitano 1975 - Fecha 14"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "2",
+    "Banfield",
+    "Metropolitano 1974 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "0",
+    "2",
+    "Atlanta",
+    "Metropolitano 1974 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Atlanta",
+    "Metropolitano 1972 - Fecha 28"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "Banfield",
+    "Metropolitano 1972 - Fecha 11"
+  ],
+  [
+    "Banfield",
+    "3",
+    "3",
+    "Atlanta",
+    "Nacional 1972 - Grupo Reclasificatorio"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Atlanta",
+    "Metropolitano 1971 - Fecha 29"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "1",
+    "Banfield",
+    "Metropolitano 1971 - Fecha 10"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Atlanta",
+    "Metropolitano 1970 - Fecha 20"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Atlanta",
+    "Nacional 1970 - Grupo B"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "1",
+    "Banfield",
+    "Nacional 1970 - Grupo B"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Atlanta",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "0",
+    "Banfield",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "0",
+    "2",
+    "Atlanta",
+    "Metropolitano 1969 - Grupo Reclasificatorio"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "0",
+    "Banfield",
+    "Metropolitano 1969 - Grupo Reclasificatorio"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "0",
+    "Banfield",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Atlanta",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Atlanta",
+    "Campeonato 1966 - Fecha 26"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1966 - Fecha 7"
+  ],
+  [
+    "Banfield",
+    "3",
+    "1",
+    "Atlanta",
+    "Campeonato 1965 - Fecha 28"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "1",
+    "Banfield",
+    "Campeonato 1965 - Fecha 11"
+  ],
+  [
+    "Banfield",
+    "2",
+    "3",
+    "Atlanta",
+    "Campeonato 1964 - Fecha 24"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "4",
+    "Banfield",
+    "Campeonato 1964 - Fecha 9"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "5",
+    "Banfield",
+    "Campeonato 1963 - Fecha 16"
+  ],
+  [
+    "Banfield",
+    "0",
+    "2",
+    "Atlanta",
+    "Campeonato 1963 - Fecha 3"
+  ],
+  [
+    "Banfield",
+    "4",
+    "3",
+    "Atlanta",
+    "Campeonato 1952 - Fecha 17"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "4",
+    "Banfield",
+    "Campeonato 1952 - Fecha 2"
+  ],
+  [
+    "Banfield",
+    "2",
+    "0",
+    "Atlanta",
+    "Campeonato 1951 - Fecha 23"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "2",
+    "Banfield",
+    "Campeonato 1951 - Fecha 6"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "0",
+    "Banfield",
+    "Campeonato 1950 - Fecha 28"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Atlanta",
+    "Campeonato 1950 - Fecha 11"
+  ],
+  [
+    "Atlanta",
+    "2",
+    "0",
+    "Banfield",
+    "Campeonato 1949 - Fecha 32"
+  ],
+  [
+    "Banfield",
+    "2",
+    "0",
+    "Atlanta",
+    "Campeonato 1949 - Fecha 15"
+  ],
+  [
+    "Banfield",
+    "1",
+    "1",
+    "Atlanta",
+    "Campeonato 1947 - Fecha 29"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "0",
+    "Banfield",
+    "Campeonato 1947 - Fecha 14"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "3",
+    "Banfield",
+    "Campeonato 1944 - Fecha 19"
+  ],
+  [
+    "Banfield",
+    "2",
+    "3",
+    "Atlanta",
+    "Campeonato 1944 - Fecha 4"
+  ],
+  [
+    "Atlanta",
+    "7",
+    "3",
+    "Banfield",
+    "Campeonato 1943 - Fecha 24"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Atlanta",
+    "Campeonato 1943 - Fecha 9"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "1",
+    "Banfield",
+    "Campeonato 1942 - Fecha 23"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Atlanta",
+    "Campeonato 1942 - Fecha 8"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "2",
+    "Banfield",
+    "Campeonato 1941 - Fecha 22"
+  ],
+  [
+    "Banfield",
+    "3",
+    "5",
+    "Atlanta",
+    "Campeonato 1941 - Fecha 7"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "0",
+    "Banfield",
+    "Campeonato 1940 - Fecha 23"
+  ],
+  [
+    "Banfield",
+    "7",
+    "3",
+    "Atlanta",
+    "Campeonato 1940 - Fecha 6"
+  ],
+  [
+    "Banfield",
+    "7",
+    "3",
+    "Atlanta",
+    "Campeonato 1940 - Fecha 6"
+  ],
+  [
+    "Atlanta",
+    "7",
+    "3",
+    "Banfield",
+    "Campeonato 1943 - Fecha 24"
+  ],
+  [
+    "Banfield",
+    "5",
+    "1",
+    "Atlanta",
+    "Nacional 1976 - Grupo B"
+  ],
+  [
+    "Atlanta",
+    "1",
+    "5",
+    "Banfield",
+    "Campeonato 1963 - Fecha 16"
+  ],
+  [
+    "Atlanta",
+    "0",
+    "4",
+    "Banfield",
+    "Campeonato 1964 - Fecha 9"
+  ],
+  [
+    "Banfield",
+    "5",
+    "2",
+    "Atlanta",
+    "Metropolitano 1976 - Grupo A"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "0",
+    "Banfield",
+    "Campeonato 1947 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Atlanta",
+    "Campeonato 1950 - Fecha 11"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Atlanta",
+    "Campeonato 1966 - Fecha 26"
+  ],
+  [
+    "Atlanta",
+    "3",
+    "0",
+    "Banfield",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "3",
+    "0",
+    "Atlanta",
+    "Metropolitano 1976 - Grupo Descenso"
+  ],
+  [
+    "Banfield",
+    "0",
+    "3",
+    "Atlanta",
+    "Metropolitano 1978 - Fecha 10"
+  ]
+]

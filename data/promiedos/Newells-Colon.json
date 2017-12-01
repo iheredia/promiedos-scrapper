@@ -1,0 +1,597 @@
+[
+  [
+    "Colon",
+    "1",
+    "2",
+    "Newells",
+    "Campeonato 2016/17 - Fecha 11"
+  ],
+  [
+    "Newells",
+    "0",
+    "1",
+    "Colon",
+    "Campeonato 2015 - Fecha 22"
+  ],
+  [
+    "Newells",
+    "0",
+    "1",
+    "Colon",
+    "Torneo Final 2014 - Fecha 14"
+  ],
+  [
+    "Colon",
+    "2",
+    "2",
+    "Newells",
+    "Torneo Inicial 2013 - Fecha 14"
+  ],
+  [
+    "Newells",
+    "1",
+    "2",
+    "Colon",
+    "Torneo Final 2013 - Fecha 8"
+  ],
+  [
+    "Colon",
+    "1",
+    "2",
+    "Newells",
+    "Torneo Inicial 2012 - Fecha 8"
+  ],
+  [
+    "Colon",
+    "0",
+    "3",
+    "Newells",
+    "Torneo Clausura 2012 - Fecha 5"
+  ],
+  [
+    "Newells",
+    "0",
+    "0",
+    "Colon",
+    "Torneo Apertura 2011 - Fecha 5"
+  ],
+  [
+    "Newells",
+    "1",
+    "0",
+    "Colon",
+    "Torneo Clausura 2011 - Fecha 19"
+  ],
+  [
+    "Colon",
+    "1",
+    "0",
+    "Newells",
+    "Torneo Apertura 2010 - Fecha 19"
+  ],
+  [
+    "Newells",
+    "5",
+    "0",
+    "Colon",
+    "Torneo Clausura 2010 - Fecha 16"
+  ],
+  [
+    "Colon",
+    "0",
+    "1",
+    "Newells",
+    "Torneo Apertura 2009 - Fecha 16"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Clausura 2009 - Fecha 4"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Apertura 2008 - Fecha 4"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Clausura 2008 - Fecha 15"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Apertura 2007 - Fecha 15"
+  ],
+  [
+    "Newells",
+    "1",
+    "3",
+    "Colon",
+    "Torneo Clausura 2007 - Fecha 9"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Apertura 2006 - Fecha 9"
+  ],
+  [
+    "Newells",
+    "0",
+    "0",
+    "Colon",
+    "Torneo Clausura 2006 - Fecha 6"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Apertura 2005 - Fecha 6"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Clausura 2005 - Fecha 4"
+  ],
+  [
+    "Colon",
+    "0",
+    "0",
+    "Newells",
+    "Torneo Apertura 2004 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "0",
+    "1",
+    "Colon",
+    "Torneo Clausura 2004 - Fecha 7"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Apertura 2003 - Fecha 7"
+  ],
+  [
+    "Newells",
+    "0",
+    "2",
+    "Colon",
+    "Torneo Clausura 2003 - Fecha 18"
+  ],
+  [
+    "Colon",
+    "3",
+    "1",
+    "Newells",
+    "Torneo Apertura 2002 - Fecha 18"
+  ],
+  [
+    "Colon",
+    "2",
+    "2",
+    "Newells",
+    "Torneo Clausura 2002 - Fecha 7"
+  ],
+  [
+    "Newells",
+    "1",
+    "2",
+    "Colon",
+    "Torneo Apertura 2001 - Fecha 7"
+  ],
+  [
+    "Newells",
+    "1",
+    "3",
+    "Colon",
+    "Torneo Clausura 2001 - Fecha 16"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Apertura 2000 - Fecha 16"
+  ],
+  [
+    "Newells",
+    "3",
+    "3",
+    "Colon",
+    "Torneo Clausura 2000 - Fecha 4"
+  ],
+  [
+    "Colon",
+    "2",
+    "0",
+    "Newells",
+    "Torneo Apertura 1999 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Clausura 1999 - Fecha 14"
+  ],
+  [
+    "Colon",
+    "2",
+    "1",
+    "Newells",
+    "Torneo Apertura 1998 - Fecha 14"
+  ],
+  [
+    "Colon",
+    "2",
+    "3",
+    "Newells",
+    "Torneo Clausura 1998 - Fecha 11"
+  ],
+  [
+    "Newells",
+    "3",
+    "2",
+    "Colon",
+    "Torneo Apertura 1997 - Fecha 11"
+  ],
+  [
+    "Colon",
+    "2",
+    "2",
+    "Newells",
+    "Torneo Clausura 1997 - Fecha 13"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Apertura 1996 - Fecha 13"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Colon",
+    "Torneo Clausura 1996 - Fecha 8"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Apertura 1995 - Fecha 8"
+  ],
+  [
+    "Colon",
+    "1",
+    "2",
+    "Newells",
+    "Metropolitano 1981 - Fecha 20"
+  ],
+  [
+    "Newells",
+    "4",
+    "2",
+    "Colon",
+    "Metropolitano 1981 - Fecha 3"
+  ],
+  [
+    "Newells",
+    "2",
+    "0",
+    "Colon",
+    "Metropolitano 1980 - Fecha 38"
+  ],
+  [
+    "Colon",
+    "3",
+    "1",
+    "Newells",
+    "Metropolitano 1980 - Fecha 19"
+  ],
+  [
+    "Newells",
+    "1",
+    "2",
+    "Colon",
+    "Metropolitano 1978 - Fecha 27"
+  ],
+  [
+    "Colon",
+    "1",
+    "5",
+    "Newells",
+    "Metropolitano 1978 - Fecha 6"
+  ],
+  [
+    "Newells",
+    "1",
+    "4",
+    "Colon",
+    "Metropolitano 1977 - Fecha 40"
+  ],
+  [
+    "Colon",
+    "1",
+    "0",
+    "Newells",
+    "Metropolitano 1977 - Fecha 17"
+  ],
+  [
+    "Colon",
+    "2",
+    "3",
+    "Newells",
+    "Metropolitano 1976 - Ronda Final"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Colon",
+    "Nacional 1976 - Grupo D"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Newells",
+    "Nacional 1976 - Grupo D"
+  ],
+  [
+    "Colon",
+    "0",
+    "0",
+    "Newells",
+    "Metropolitano 1975 - Fecha 30"
+  ],
+  [
+    "Newells",
+    "0",
+    "1",
+    "Colon",
+    "Metropolitano 1975 - Fecha 11"
+  ],
+  [
+    "Newells",
+    "6",
+    "2",
+    "Colon",
+    "Nacional 1975 - Grupo D"
+  ],
+  [
+    "Colon",
+    "2",
+    "0",
+    "Newells",
+    "Nacional 1975 - Grupo D"
+  ],
+  [
+    "Newells",
+    "2",
+    "2",
+    "Colon",
+    "Metropolitano 1974 - Grupo B"
+  ],
+  [
+    "Colon",
+    "3",
+    "2",
+    "Newells",
+    "Metropolitano 1974 - Grupo B"
+  ],
+  [
+    "Colon",
+    "2",
+    "2",
+    "Newells",
+    "Nacional 1974 - Grupo B"
+  ],
+  [
+    "Newells",
+    "2",
+    "1",
+    "Colon",
+    "Nacional 1974 - Grupo B"
+  ],
+  [
+    "Colon",
+    "1",
+    "1",
+    "Newells",
+    "Metropolitano 1973 - Fecha 32"
+  ],
+  [
+    "Newells",
+    "2",
+    "2",
+    "Colon",
+    "Metropolitano 1973 - Fecha 15"
+  ],
+  [
+    "Newells",
+    "2",
+    "1",
+    "Colon",
+    "Nacional 1973 - Grupo A"
+  ],
+  [
+    "Colon",
+    "3",
+    "0",
+    "Newells",
+    "Metropolitano 1972 - Fecha 27"
+  ],
+  [
+    "Newells",
+    "1",
+    "0",
+    "Colon",
+    "Metropolitano 1972 - Fecha 10"
+  ],
+  [
+    "Newells",
+    "0",
+    "1",
+    "Colon",
+    "Nacional 1972 - Grupo B"
+  ],
+  [
+    "Newells",
+    "6",
+    "0",
+    "Colon",
+    "Metropolitano 1971 - Fecha 23"
+  ],
+  [
+    "Colon",
+    "0",
+    "3",
+    "Newells",
+    "Metropolitano 1971 - Fecha 4"
+  ],
+  [
+    "Colon",
+    "2",
+    "2",
+    "Newells",
+    "Metropolitano 1970 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "2",
+    "1",
+    "Colon",
+    "Metropolitano 1969 - Grupo Reclasificatorio"
+  ],
+  [
+    "Colon",
+    "1",
+    "0",
+    "Newells",
+    "Metropolitano 1969 - Grupo Reclasificatorio"
+  ],
+  [
+    "Newells",
+    "0",
+    "1",
+    "Colon",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Colon",
+    "5",
+    "2",
+    "Newells",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Newells",
+    "2",
+    "0",
+    "Colon",
+    "Metropolitano 1967 - Grupo A"
+  ],
+  [
+    "Colon",
+    "0",
+    "0",
+    "Newells",
+    "Metropolitano 1967 - Grupo A"
+  ],
+  [
+    "Colon",
+    "3",
+    "2",
+    "Newells",
+    "Campeonato 1966 - Fecha 36"
+  ],
+  [
+    "Newells",
+    "3",
+    "1",
+    "Colon",
+    "Campeonato 1966 - Fecha 17"
+  ],
+  [
+    "Newells",
+    "6",
+    "0",
+    "Colon",
+    "Metropolitano 1971 - Fecha 23"
+  ],
+  [
+    "Newells",
+    "5",
+    "0",
+    "Colon",
+    "Torneo Clausura 2010 - Fecha 16"
+  ],
+  [
+    "Newells",
+    "6",
+    "2",
+    "Colon",
+    "Nacional 1975 - Grupo D"
+  ],
+  [
+    "Colon",
+    "1",
+    "5",
+    "Newells",
+    "Metropolitano 1978 - Fecha 6"
+  ],
+  [
+    "Colon",
+    "5",
+    "2",
+    "Newells",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Newells",
+    "1",
+    "4",
+    "Colon",
+    "Metropolitano 1977 - Fecha 40"
+  ],
+  [
+    "Colon",
+    "3",
+    "0",
+    "Newells",
+    "Metropolitano 1972 - Fecha 27"
+  ],
+  [
+    "Colon",
+    "0",
+    "3",
+    "Newells",
+    "Metropolitano 1971 - Fecha 4"
+  ],
+  [
+    "Colon",
+    "0",
+    "3",
+    "Newells",
+    "Torneo Clausura 2012 - Fecha 5"
+  ]
+]

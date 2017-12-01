@@ -1,0 +1,954 @@
+[
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Chacarita",
+    "Torneo Clausura 2010 - Fecha 8"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "2",
+    "San Lorenzo",
+    "Torneo Apertura 2009 - Fecha 8"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "2",
+    "San Lorenzo",
+    "Torneo Clausura 2004 - Fecha 1"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "2",
+    "Chacarita",
+    "Torneo Apertura 2003 - Fecha 1"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Chacarita",
+    "Torneo Clausura 2003 - Fecha 14"
+  ],
+  [
+    "Chacarita",
+    "2",
+    "1",
+    "San Lorenzo",
+    "Torneo Apertura 2002 - Fecha 14"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Torneo Clausura 2002 - Fecha 11"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "3",
+    "Chacarita",
+    "Torneo Apertura 2001 - Fecha 11"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "4",
+    "San Lorenzo",
+    "Torneo Clausura 2001 - Fecha 16"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "0",
+    "Chacarita",
+    "Torneo Apertura 2000 - Fecha 16"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Torneo Clausura 2000 - Fecha 6"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Chacarita",
+    "Torneo Apertura 1999 - Fecha 6"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1985/86  - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Chacarita",
+    "Campeonato 1985/86  - Fecha 7"
+  ],
+  [
+    "Chacarita",
+    "2",
+    "0",
+    "San Lorenzo",
+    "Torneo Nacional 1985  - Playoffs"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Metropolitano 1984 - Fecha 32"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Chacarita",
+    "Metropolitano 1984 - Fecha 13"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Chacarita",
+    "Metropolitano 1979 - Grupo B"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "5",
+    "San Lorenzo",
+    "Metropolitano 1979 - Grupo B"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "0",
+    "Chacarita",
+    "Metropolitano 1978 - Fecha 25"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1978 - Fecha 4"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "2",
+    "Chacarita",
+    "Metropolitano 1977 - Fecha 29"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1977 - Fecha 6"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1976 - Grupo B"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "0",
+    "Chacarita",
+    "Metropolitano 1976 - Grupo B"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Metropolitano 1975 - Fecha 34"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "2",
+    "Chacarita",
+    "Metropolitano 1975 - Fecha 15"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Chacarita",
+    "Metropolitano 1974 - Grupo B"
+  ],
+  [
+    "Chacarita",
+    "2",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1974 - Grupo B"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "3",
+    "San Lorenzo",
+    "Nacional 1974 - Grupo C"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Chacarita",
+    "Nacional 1974 - Grupo C"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "2",
+    "Chacarita",
+    "Metropolitano 1973 - Fecha 21"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Metropolitano 1973 - Fecha 3"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Nacional 1973 - Grupo A"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Metropolitano 1972 - Fecha 22"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "0",
+    "Chacarita",
+    "Metropolitano 1972 - Fecha 5"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Metropolitano 1971 - Fecha 32"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "1",
+    "Chacarita",
+    "Metropolitano 1971 - Fecha 13"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Chacarita",
+    "Nacional 1971 - Grupo B"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Metropolitano 1970 - Fecha 20"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Chacarita",
+    "Nacional 1970 - Grupo A"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "0",
+    "San Lorenzo",
+    "Nacional 1970 - Grupo A"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "0",
+    "Chacarita",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "2",
+    "San Lorenzo",
+    "Metropolitano 1969 - Grupo A"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Nacional 1969 - Fecha 12"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Chacarita",
+    "Metropolitano 1967 - Grupo B"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Metropolitano 1967 - Grupo B"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1966 - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Chacarita",
+    "Campeonato 1966 - Fecha 7"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "2",
+    "Chacarita",
+    "Campeonato 1965 - Fecha 24"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1965 - Fecha 7"
+  ],
+  [
+    "San Lorenzo",
+    "6",
+    "1",
+    "Chacarita",
+    "Campeonato 1964 - Fecha 18"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1964 - Fecha 3"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "0",
+    "Chacarita",
+    "Campeonato 1963 - Fecha 17"
+  ],
+  [
+    "Chacarita",
+    "4",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1963 - Fecha 4"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "2",
+    "Chacarita",
+    "Campeonato 1962 - Fecha 22"
+  ],
+  [
+    "Chacarita",
+    "4",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1962 - Fecha 7"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1961 - Fecha 20"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Chacarita",
+    "Campeonato 1961 - Fecha 5"
+  ],
+  [
+    "Chacarita",
+    "4",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1960 - Fecha 29"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "2",
+    "Chacarita",
+    "Campeonato 1960 - Fecha 14"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Chacarita",
+    "Campeonato 1956 - Fecha 18"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1956 - Fecha 3"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Chacarita",
+    "Campeonato 1955 - Fecha 22"
+  ],
+  [
+    "Chacarita",
+    "4",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1955 - Fecha 7"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1954 - Fecha 18"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Chacarita",
+    "Campeonato 1954 - Fecha 3"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1953 - Fecha 19"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Chacarita",
+    "Campeonato 1953 - Fecha 4"
+  ],
+  [
+    "Chacarita",
+    "5",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1952 - Fecha 30"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Chacarita",
+    "Campeonato 1952 - Fecha 15"
+  ],
+  [
+    "Chacarita",
+    "2",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1951 - Fecha 21"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "0",
+    "Chacarita",
+    "Campeonato 1951 - Fecha 4"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "1",
+    "Chacarita",
+    "Campeonato 1950 - Fecha 26"
+  ],
+  [
+    "Chacarita",
+    "5",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1950 - Fecha 9"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Chacarita",
+    "Campeonato 1949 - Fecha 34"
+  ],
+  [
+    "Chacarita",
+    "2",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1949 - Fecha 17"
+  ],
+  [
+    "Chacarita",
+    "2",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1948 - Fecha 18"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Chacarita",
+    "Campeonato 1948 - Fecha 3"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "2",
+    "Chacarita",
+    "Campeonato 1947 - Fecha 30"
+  ],
+  [
+    "Chacarita",
+    "3",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1947 - Fecha 15"
+  ],
+  [
+    "Chacarita",
+    "3",
+    "4",
+    "San Lorenzo",
+    "Campeonato 1946 - Fecha 23"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "2",
+    "Chacarita",
+    "Campeonato 1946 - Fecha 8"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1945 - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "2",
+    "Chacarita",
+    "Campeonato 1945 - Fecha 11"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "2",
+    "Chacarita",
+    "Campeonato 1944 - Fecha 24"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "4",
+    "San Lorenzo",
+    "Campeonato 1944 - Fecha 9"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1943 - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "1",
+    "Chacarita",
+    "Campeonato 1943 - Fecha 11"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1942 - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "0",
+    "Chacarita",
+    "Campeonato 1942 - Fecha 11"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Chacarita",
+    "Campeonato 1940 - Fecha 29"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1940 - Fecha 12"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "1",
+    "Chacarita",
+    "Campeonato 1939 - Fecha 32"
+  ],
+  [
+    "Chacarita",
+    "2",
+    "4",
+    "San Lorenzo",
+    "Campeonato 1939 - Fecha 15"
+  ],
+  [
+    "Chacarita",
+    "3",
+    "5",
+    "San Lorenzo",
+    "Campeonato 1938 - Fecha 31"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "4",
+    "Chacarita",
+    "Campeonato 1938 - Fecha 14"
+  ],
+  [
+    "Chacarita",
+    "3",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1937 - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "1",
+    "Chacarita",
+    "Campeonato 1937 - Fecha 8"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "1",
+    "Chacarita",
+    "Campeonato 1936 - Fecha 7"
+  ],
+  [
+    "Chacarita",
+    "2",
+    "6",
+    "San Lorenzo",
+    "Copa de Honor 1936 - Fecha 7"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "0",
+    "Chacarita",
+    "Campeonato 1935 - Fecha 33"
+  ],
+  [
+    "Chacarita",
+    "3",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1935 - Fecha 16"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "3",
+    "Chacarita",
+    "Campeonato 1934 - Fecha 34"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "0",
+    "Chacarita",
+    "Campeonato 1934 - Fecha 18"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1934 - Fecha 5"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1933 - Fecha 34"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Chacarita",
+    "Campeonato 1933 - Fecha 17"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "5",
+    "San Lorenzo",
+    "Campeonato 1932 - Fecha 24"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "1",
+    "Chacarita",
+    "Campeonato 1932 - Fecha 7"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "0",
+    "Chacarita",
+    "Campeonato 1931 - Fecha 23"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1931 - Fecha 6"
+  ],
+  [
+    "San Lorenzo",
+    "6",
+    "1",
+    "Chacarita",
+    "Campeonato 1964 - Fecha 18"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "5",
+    "San Lorenzo",
+    "Metropolitano 1979 - Grupo B"
+  ],
+  [
+    "Chacarita",
+    "2",
+    "6",
+    "San Lorenzo",
+    "Copa de Honor 1936 - Fecha 7"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "1",
+    "Chacarita",
+    "Campeonato 1939 - Fecha 32"
+  ],
+  [
+    "Chacarita",
+    "5",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1950 - Fecha 9"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "1",
+    "Chacarita",
+    "Campeonato 1950 - Fecha 26"
+  ],
+  [
+    "Chacarita",
+    "5",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1952 - Fecha 30"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "5",
+    "San Lorenzo",
+    "Campeonato 1932 - Fecha 24"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "0",
+    "Chacarita",
+    "Torneo Apertura 2000 - Fecha 16"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "0",
+    "Chacarita",
+    "Campeonato 1935 - Fecha 33"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "0",
+    "Chacarita",
+    "Campeonato 1942 - Fecha 11"
+  ],
+  [
+    "Chacarita",
+    "4",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1963 - Fecha 4"
+  ],
+  [
+    "Chacarita",
+    "0",
+    "4",
+    "San Lorenzo",
+    "Torneo Clausura 2001 - Fecha 16"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "2",
+    "Chacarita",
+    "Campeonato 1962 - Fecha 22"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Chacarita",
+    "Campeonato 1940 - Fecha 29"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Chacarita",
+    "Campeonato 1954 - Fecha 3"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Chacarita",
+    "Campeonato 1956 - Fecha 18"
+  ],
+  [
+    "Chacarita",
+    "4",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1962 - Fecha 7"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Chacarita",
+    "Nacional 1974 - Grupo C"
+  ],
+  [
+    "Chacarita",
+    "1",
+    "4",
+    "San Lorenzo",
+    "Campeonato 1944 - Fecha 9"
+  ],
+  [
+    "Chacarita",
+    "3",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1935 - Fecha 16"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Chacarita",
+    "Campeonato 1953 - Fecha 4"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Chacarita",
+    "Campeonato 1955 - Fecha 22"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Chacarita",
+    "Nacional 1970 - Grupo A"
+  ]
+]

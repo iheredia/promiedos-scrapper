@@ -1,0 +1,555 @@
+[
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Huracan",
+    "Campeonato 2016/17 - Fecha 13"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Huracan",
+    "Campeonato 2015 - Fecha 7"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Huracan",
+    "Torneo Clausura 2011 - Fecha 6"
+  ],
+  [
+    "Huracan",
+    "2",
+    "2",
+    "Banfield",
+    "Torneo Apertura 2010 - Fecha 6"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Huracan",
+    "Torneo Clausura 2010 - Fecha 17"
+  ],
+  [
+    "Huracan",
+    "0",
+    "1",
+    "Banfield",
+    "Torneo Apertura 2009 - Fecha 17"
+  ],
+  [
+    "Huracan",
+    "2",
+    "1",
+    "Banfield",
+    "Torneo Clausura 2009 - Fecha 16"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Huracan",
+    "Torneo Apertura 2008 - Fecha 16"
+  ],
+  [
+    "Banfield",
+    "4",
+    "3",
+    "Huracan",
+    "Torneo Clausura 2008 - Fecha 12"
+  ],
+  [
+    "Huracan",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo Apertura 2007 - Fecha 12"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Huracan",
+    "Torneo Clausura 2003 - Fecha 14"
+  ],
+  [
+    "Huracan",
+    "2",
+    "3",
+    "Banfield",
+    "Torneo Apertura 2002 - Fecha 14"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Huracan",
+    "Torneo Clausura 2002 - Fecha 12"
+  ],
+  [
+    "Huracan",
+    "2",
+    "1",
+    "Banfield",
+    "Torneo Apertura 2001 - Fecha 12"
+  ],
+  [
+    "Huracan",
+    "1",
+    "0",
+    "Banfield",
+    "Torneo Clausura 1997 - Fecha 11"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Huracan",
+    "Torneo Apertura 1996 - Fecha 11"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Huracan",
+    "Torneo Clausura 1996 - Fecha 9"
+  ],
+  [
+    "Huracan",
+    "2",
+    "0",
+    "Banfield",
+    "Torneo Apertura 1995 - Fecha 9"
+  ],
+  [
+    "Banfield",
+    "3",
+    "1",
+    "Huracan",
+    "Torneo Clausura 1995 - Fecha 18"
+  ],
+  [
+    "Huracan",
+    "3",
+    "1",
+    "Banfield",
+    "Torneo Apertura 1994 - Fecha 18"
+  ],
+  [
+    "Huracan",
+    "2",
+    "0",
+    "Banfield",
+    "Torneo Clausura 1994 - Fecha 18"
+  ],
+  [
+    "Banfield",
+    "3",
+    "3",
+    "Huracan",
+    "Torneo Apertura 1993 - Fecha 18"
+  ],
+  [
+    "Huracan",
+    "2",
+    "2",
+    "Banfield",
+    "Metropolitano 1978 - Fecha 39"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Huracan",
+    "Metropolitano 1978 - Fecha 18"
+  ],
+  [
+    "Huracan",
+    "0",
+    "1",
+    "Banfield",
+    "Metropolitano 1977 - Fecha 24"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Huracan",
+    "Metropolitano 1977 - Fecha 1"
+  ],
+  [
+    "Banfield",
+    "3",
+    "3",
+    "Huracan",
+    "Metropolitano 1976 - Grupo A"
+  ],
+  [
+    "Huracan",
+    "1",
+    "1",
+    "Banfield",
+    "Metropolitano 1976 - Grupo A"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Huracan",
+    "Metropolitano 1975 - Fecha 28"
+  ],
+  [
+    "Huracan",
+    "2",
+    "1",
+    "Banfield",
+    "Metropolitano 1975 - Fecha 9"
+  ],
+  [
+    "Banfield",
+    "1",
+    "3",
+    "Huracan",
+    "Metropolitano 1974 - Grupo A"
+  ],
+  [
+    "Huracan",
+    "0",
+    "0",
+    "Banfield",
+    "Metropolitano 1974 - Grupo A"
+  ],
+  [
+    "Huracan",
+    "1",
+    "0",
+    "Banfield",
+    "Metropolitano 1972 - Fecha 29"
+  ],
+  [
+    "Banfield",
+    "0",
+    "2",
+    "Huracan",
+    "Metropolitano 1972 - Fecha 12"
+  ],
+  [
+    "Banfield",
+    "3",
+    "4",
+    "Huracan",
+    "Nacional 1972 - Grupo B"
+  ],
+  [
+    "Huracan",
+    "2",
+    "2",
+    "Banfield",
+    "Metropolitano 1971 - Fecha 26"
+  ],
+  [
+    "Banfield",
+    "0",
+    "0",
+    "Huracan",
+    "Metropolitano 1971 - Fecha 7"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Huracan",
+    "Nacional 1971 - Grupo A"
+  ],
+  [
+    "Huracan",
+    "0",
+    "0",
+    "Banfield",
+    "Metropolitano 1970 - Fecha 10"
+  ],
+  [
+    "Huracan",
+    "3",
+    "1",
+    "Banfield",
+    "Nacional 1967 - Grupo Promocional"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Huracan",
+    "Nacional 1967 - Grupo Promocional"
+  ],
+  [
+    "Huracan",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1966 - Fecha 34"
+  ],
+  [
+    "Banfield",
+    "4",
+    "1",
+    "Huracan",
+    "Campeonato 1966 - Fecha 15"
+  ],
+  [
+    "Huracan",
+    "2",
+    "0",
+    "Banfield",
+    "Campeonato 1965 - Fecha 25"
+  ],
+  [
+    "Banfield",
+    "3",
+    "1",
+    "Huracan",
+    "Campeonato 1965 - Fecha 8"
+  ],
+  [
+    "Huracan",
+    "0",
+    "0",
+    "Banfield",
+    "Campeonato 1964 - Fecha 17"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Huracan",
+    "Campeonato 1964 - Fecha 2"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Huracan",
+    "Campeonato 1963 - Fecha 17"
+  ],
+  [
+    "Huracan",
+    "2",
+    "2",
+    "Banfield",
+    "Campeonato 1963 - Fecha 4"
+  ],
+  [
+    "Banfield",
+    "2",
+    "1",
+    "Huracan",
+    "Campeonato 1954 - Fecha 23"
+  ],
+  [
+    "Huracan",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1954 - Fecha 8"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Huracan",
+    "Campeonato 1953 - Fecha 22"
+  ],
+  [
+    "Huracan",
+    "3",
+    "0",
+    "Banfield",
+    "Campeonato 1953 - Fecha 7"
+  ],
+  [
+    "Huracan",
+    "3",
+    "1",
+    "Banfield",
+    "Campeonato 1952 - Fecha 26"
+  ],
+  [
+    "Banfield",
+    "2",
+    "2",
+    "Huracan",
+    "Campeonato 1952 - Fecha 11"
+  ],
+  [
+    "Banfield",
+    "1",
+    "0",
+    "Huracan",
+    "Campeonato 1951 - Fecha 31"
+  ],
+  [
+    "Huracan",
+    "1",
+    "2",
+    "Banfield",
+    "Campeonato 1951 - Fecha 14"
+  ],
+  [
+    "Huracan",
+    "5",
+    "3",
+    "Banfield",
+    "Campeonato 1950 - Fecha 30"
+  ],
+  [
+    "Banfield",
+    "3",
+    "2",
+    "Huracan",
+    "Campeonato 1950 - Fecha 13"
+  ],
+  [
+    "Banfield",
+    "0",
+    "1",
+    "Huracan",
+    "Campeonato 1949 - Fecha 34"
+  ],
+  [
+    "Huracan",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1949 - Fecha 17"
+  ],
+  [
+    "Banfield",
+    "5",
+    "1",
+    "Huracan",
+    "Campeonato 1948 - Fecha 30"
+  ],
+  [
+    "Huracan",
+    "1",
+    "1",
+    "Banfield",
+    "Campeonato 1948 - Fecha 15"
+  ],
+  [
+    "Banfield",
+    "4",
+    "2",
+    "Huracan",
+    "Campeonato 1947 - Fecha 25"
+  ],
+  [
+    "Huracan",
+    "1",
+    "0",
+    "Banfield",
+    "Campeonato 1947 - Fecha 10"
+  ],
+  [
+    "Banfield",
+    "1",
+    "3",
+    "Huracan",
+    "Campeonato 1944 - Fecha 18"
+  ],
+  [
+    "Huracan",
+    "6",
+    "3",
+    "Banfield",
+    "Campeonato 1944 - Fecha 3"
+  ],
+  [
+    "Huracan",
+    "4",
+    "2",
+    "Banfield",
+    "Campeonato 1943 - Fecha 18"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Huracan",
+    "Campeonato 1943 - Fecha 3"
+  ],
+  [
+    "Huracan",
+    "3",
+    "4",
+    "Banfield",
+    "Campeonato 1942 - Fecha 21"
+  ],
+  [
+    "Banfield",
+    "1",
+    "2",
+    "Huracan",
+    "Campeonato 1942 - Fecha 6"
+  ],
+  [
+    "Banfield",
+    "1",
+    "3",
+    "Huracan",
+    "Campeonato 1941 - Fecha 26"
+  ],
+  [
+    "Huracan",
+    "1",
+    "3",
+    "Banfield",
+    "Campeonato 1941 - Fecha 11"
+  ],
+  [
+    "Banfield",
+    "1",
+    "4",
+    "Huracan",
+    "Campeonato 1940 - Fecha 20"
+  ],
+  [
+    "Banfield",
+    "5",
+    "1",
+    "Huracan",
+    "Campeonato 1948 - Fecha 30"
+  ],
+  [
+    "Huracan",
+    "6",
+    "3",
+    "Banfield",
+    "Campeonato 1944 - Fecha 3"
+  ],
+  [
+    "Banfield",
+    "4",
+    "1",
+    "Huracan",
+    "Campeonato 1966 - Fecha 15"
+  ],
+  [
+    "Banfield",
+    "1",
+    "4",
+    "Huracan",
+    "Campeonato 1940 - Fecha 20"
+  ],
+  [
+    "Huracan",
+    "3",
+    "0",
+    "Banfield",
+    "Campeonato 1953 - Fecha 7"
+  ]
+]

@@ -1,0 +1,478 @@
+[
+  [
+    "Tigre",
+    "1",
+    "1",
+    "Huracan",
+    "Campeonato 2016/17 - Fecha 3"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "Huracan",
+    "Torneo 2016 - Fecha 2"
+  ],
+  [
+    "Huracan",
+    "1",
+    "2",
+    "Tigre",
+    "Campeonato 2015 - Fecha 10"
+  ],
+  [
+    "Huracan",
+    "3",
+    "2",
+    "Tigre",
+    "Torneo Clausura 2011 - Fecha 17"
+  ],
+  [
+    "Tigre",
+    "3",
+    "1",
+    "Huracan",
+    "Torneo Apertura 2010 - Fecha 17"
+  ],
+  [
+    "Huracan",
+    "2",
+    "3",
+    "Tigre",
+    "Torneo Clausura 2010 - Fecha 8"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "Huracan",
+    "Torneo Apertura 2009 - Fecha 8"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "Huracan",
+    "Torneo Clausura 2009 - Fecha 11"
+  ],
+  [
+    "Huracan",
+    "0",
+    "3",
+    "Tigre",
+    "Torneo Apertura 2008 - Fecha 11"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "Huracan",
+    "Torneo Clausura 2008 - Fecha 3"
+  ],
+  [
+    "Huracan",
+    "0",
+    "0",
+    "Tigre",
+    "Torneo Apertura 2007 - Fecha 3"
+  ],
+  [
+    "Huracan",
+    "5",
+    "1",
+    "Tigre",
+    "Metropolitano 1980 - Fecha 28"
+  ],
+  [
+    "Tigre",
+    "2",
+    "5",
+    "Huracan",
+    "Metropolitano 1980 - Fecha 9"
+  ],
+  [
+    "Huracan",
+    "2",
+    "0",
+    "Tigre",
+    "Metropolitano 1968 - Grupo B"
+  ],
+  [
+    "Tigre",
+    "1",
+    "0",
+    "Huracan",
+    "Metropolitano 1968 - Grupo B"
+  ],
+  [
+    "Huracan",
+    "1",
+    "0",
+    "Tigre",
+    "Campeonato 1958 - Fecha 18"
+  ],
+  [
+    "Tigre",
+    "0",
+    "2",
+    "Huracan",
+    "Campeonato 1958 - Fecha 3"
+  ],
+  [
+    "Tigre",
+    "2",
+    "1",
+    "Huracan",
+    "Campeonato 1957 - Fecha 30"
+  ],
+  [
+    "Huracan",
+    "4",
+    "1",
+    "Tigre",
+    "Campeonato 1957 - Fecha 15"
+  ],
+  [
+    "Tigre",
+    "3",
+    "2",
+    "Huracan",
+    "Campeonato 1956 - Fecha 26"
+  ],
+  [
+    "Huracan",
+    "2",
+    "1",
+    "Tigre",
+    "Campeonato 1956 - Fecha 11"
+  ],
+  [
+    "Huracan",
+    "2",
+    "0",
+    "Tigre",
+    "Campeonato 1955 - Fecha 19"
+  ],
+  [
+    "Tigre",
+    "2",
+    "1",
+    "Huracan",
+    "Campeonato 1955 - Fecha 4"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "Huracan",
+    "Campeonato 1954 - Fecha 19"
+  ],
+  [
+    "Huracan",
+    "1",
+    "2",
+    "Tigre",
+    "Campeonato 1954 - Fecha 4"
+  ],
+  [
+    "Huracan",
+    "5",
+    "1",
+    "Tigre",
+    "Campeonato 1950 - Desempate Descenso"
+  ],
+  [
+    "Tigre",
+    "1",
+    "3",
+    "Huracan",
+    "Campeonato 1950 - Desempate Descenso"
+  ],
+  [
+    "Huracan",
+    "0",
+    "1",
+    "Tigre",
+    "Campeonato 1950 - Fecha 21"
+  ],
+  [
+    "Tigre",
+    "1",
+    "1",
+    "Huracan",
+    "Campeonato 1950 - Fecha 4"
+  ],
+  [
+    "Huracan",
+    "2",
+    "2",
+    "Tigre",
+    "Campeonato 1949 - Fecha 18"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "Huracan",
+    "Campeonato 1949 - Fecha 1"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "Huracan",
+    "Campeonato 1948 - Fecha 19"
+  ],
+  [
+    "Huracan",
+    "4",
+    "0",
+    "Tigre",
+    "Campeonato 1948 - Fecha 4"
+  ],
+  [
+    "Tigre",
+    "3",
+    "1",
+    "Huracan",
+    "Campeonato 1947 - Fecha 30"
+  ],
+  [
+    "Huracan",
+    "3",
+    "1",
+    "Tigre",
+    "Campeonato 1947 - Fecha 15"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "Huracan",
+    "Campeonato 1946 - Fecha 24"
+  ],
+  [
+    "Huracan",
+    "3",
+    "3",
+    "Tigre",
+    "Campeonato 1946 - Fecha 9"
+  ],
+  [
+    "Tigre",
+    "1",
+    "1",
+    "Huracan",
+    "Campeonato 1942 - Fecha 25"
+  ],
+  [
+    "Huracan",
+    "0",
+    "0",
+    "Tigre",
+    "Campeonato 1942 - Fecha 10"
+  ],
+  [
+    "Tigre",
+    "3",
+    "1",
+    "Huracan",
+    "Campeonato 1941 - Fecha 27"
+  ],
+  [
+    "Huracan",
+    "2",
+    "2",
+    "Tigre",
+    "Campeonato 1941 - Fecha 12"
+  ],
+  [
+    "Huracan",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1940 - Fecha 34"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "Huracan",
+    "Campeonato 1940 - Fecha 17"
+  ],
+  [
+    "Huracan",
+    "1",
+    "1",
+    "Tigre",
+    "Campeonato 1939 - Fecha 25"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "Huracan",
+    "Campeonato 1939 - Fecha 8"
+  ],
+  [
+    "Huracan",
+    "9",
+    "3",
+    "Tigre",
+    "Campeonato 1938 - Fecha 27"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "Huracan",
+    "Campeonato 1938 - Fecha 10"
+  ],
+  [
+    "Huracan",
+    "1",
+    "0",
+    "Tigre",
+    "Campeonato 1937 - Fecha 24"
+  ],
+  [
+    "Tigre",
+    "4",
+    "2",
+    "Huracan",
+    "Campeonato 1937 - Fecha 6"
+  ],
+  [
+    "Tigre",
+    "1",
+    "1",
+    "Huracan",
+    "Campeonato 1936 - Fecha 14"
+  ],
+  [
+    "Huracan",
+    "2",
+    "1",
+    "Tigre",
+    "Copa de Honor 1936 - Fecha 14"
+  ],
+  [
+    "Huracan",
+    "3",
+    "1",
+    "Tigre",
+    "Campeonato 1935 - Fecha 24"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "Huracan",
+    "Campeonato 1935 - Fecha 7"
+  ],
+  [
+    "Tigre",
+    "1",
+    "0",
+    "Huracan",
+    "Campeonato 1933 - Fecha 30"
+  ],
+  [
+    "Huracan",
+    "1",
+    "3",
+    "Tigre",
+    "Campeonato 1933 - Fecha 13"
+  ],
+  [
+    "Huracan",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1932 - Fecha 21"
+  ],
+  [
+    "Tigre",
+    "2",
+    "3",
+    "Huracan",
+    "Campeonato 1932 - Fecha 4"
+  ],
+  [
+    "Huracan",
+    "3",
+    "1",
+    "Tigre",
+    "Campeonato 1931 - Fecha 22"
+  ],
+  [
+    "Tigre",
+    "2",
+    "0",
+    "Huracan",
+    "Campeonato 1931 - Fecha 5"
+  ],
+  [
+    "Huracan",
+    "9",
+    "3",
+    "Tigre",
+    "Campeonato 1938 - Fecha 27"
+  ],
+  [
+    "Huracan",
+    "5",
+    "1",
+    "Tigre",
+    "Campeonato 1950 - Desempate Descenso"
+  ],
+  [
+    "Huracan",
+    "5",
+    "1",
+    "Tigre",
+    "Metropolitano 1980 - Fecha 28"
+  ],
+  [
+    "Huracan",
+    "4",
+    "0",
+    "Tigre",
+    "Campeonato 1948 - Fecha 4"
+  ],
+  [
+    "Tigre",
+    "2",
+    "5",
+    "Huracan",
+    "Metropolitano 1980 - Fecha 9"
+  ],
+  [
+    "Huracan",
+    "4",
+    "1",
+    "Tigre",
+    "Campeonato 1957 - Fecha 15"
+  ],
+  [
+    "Huracan",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1932 - Fecha 21"
+  ],
+  [
+    "Huracan",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1940 - Fecha 34"
+  ],
+  [
+    "Huracan",
+    "0",
+    "3",
+    "Tigre",
+    "Torneo Apertura 2008 - Fecha 11"
+  ]
+]

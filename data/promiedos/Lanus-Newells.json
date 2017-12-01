@@ -1,0 +1,828 @@
+[
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Newells",
+    "Superliga 2017/18 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Lanus",
+    "Campeonato 2016/17 - Fecha 28"
+  ],
+  [
+    "Lanus",
+    "3",
+    "0",
+    "Newells",
+    "Torneo 2016 - Fecha 6"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Newells",
+    "Campeonato 2015 - Liguilla Sudamericana"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Lanus",
+    "Campeonato 2015 - Fecha 29"
+  ],
+  [
+    "Newells",
+    "0",
+    "0",
+    "Lanus",
+    "Torneo de Transicion 2014 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Final 2014 - Fecha 19"
+  ],
+  [
+    "Newells",
+    "2",
+    "2",
+    "Lanus",
+    "Torneo Inicial 2013 - Fecha 19"
+  ],
+  [
+    "Newells",
+    "0",
+    "3",
+    "Lanus",
+    "Torneo Final 2013 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Newells",
+    "Torneo Inicial 2012 - Fecha 2"
+  ],
+  [
+    "Newells",
+    "0",
+    "0",
+    "Lanus",
+    "Torneo Clausura 2012 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "Newells",
+    "Torneo Apertura 2011 - Fecha 19"
+  ],
+  [
+    "Newells",
+    "2",
+    "1",
+    "Lanus",
+    "Torneo Clausura 2011 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Apertura 2010 - Fecha 2"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Lanus",
+    "Torneo Clausura 2010 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "Newells",
+    "Torneo Apertura 2009 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Newells",
+    "Torneo Clausura 2009 - Fecha 5"
+  ],
+  [
+    "Newells",
+    "2",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2008 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Clausura 2008 - Fecha 7"
+  ],
+  [
+    "Newells",
+    "0",
+    "0",
+    "Lanus",
+    "Torneo Apertura 2007 - Fecha 7"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "Newells",
+    "Torneo Clausura 2007 - Fecha 3"
+  ],
+  [
+    "Newells",
+    "0",
+    "1",
+    "Lanus",
+    "Torneo Apertura 2006 - Fecha 3"
+  ],
+  [
+    "Newells",
+    "1",
+    "2",
+    "Lanus",
+    "Torneo Clausura 2006 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Apertura 2005 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Newells",
+    "Torneo Clausura 2005 - Fecha 14"
+  ],
+  [
+    "Newells",
+    "0",
+    "0",
+    "Lanus",
+    "Torneo Apertura 2004 - Fecha 14"
+  ],
+  [
+    "Newells",
+    "2",
+    "4",
+    "Lanus",
+    "Torneo Clausura 2004 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "Newells",
+    "Torneo Apertura 2003 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "4",
+    "2",
+    "Newells",
+    "Torneo Clausura 2003 - Fecha 12"
+  ],
+  [
+    "Newells",
+    "2",
+    "2",
+    "Lanus",
+    "Torneo Apertura 2002 - Fecha 12"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Newells",
+    "Torneo Clausura 2002 - Fecha 11"
+  ],
+  [
+    "Newells",
+    "2",
+    "0",
+    "Lanus",
+    "Torneo Apertura 2001 - Fecha 11"
+  ],
+  [
+    "Lanus",
+    "1",
+    "3",
+    "Newells",
+    "Torneo Clausura 2001 - Fecha 13"
+  ],
+  [
+    "Newells",
+    "1",
+    "0",
+    "Lanus",
+    "Torneo Apertura 2000 - Fecha 13"
+  ],
+  [
+    "Newells",
+    "3",
+    "2",
+    "Lanus",
+    "Torneo Clausura 2000 - Fecha 8"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Newells",
+    "Torneo Apertura 1999 - Fecha 8"
+  ],
+  [
+    "Newells",
+    "3",
+    "2",
+    "Lanus",
+    "Torneo Clausura 1999 - Fecha 3"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Newells",
+    "Torneo Apertura 1998 - Fecha 3"
+  ],
+  [
+    "Lanus",
+    "3",
+    "1",
+    "Newells",
+    "Torneo Clausura 1998 - Fecha 13"
+  ],
+  [
+    "Newells",
+    "2",
+    "4",
+    "Lanus",
+    "Torneo Apertura 1997 - Fecha 13"
+  ],
+  [
+    "Newells",
+    "1",
+    "0",
+    "Lanus",
+    "Torneo Clausura 1997 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "2",
+    "0",
+    "Newells",
+    "Torneo Apertura 1996 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "4",
+    "1",
+    "Newells",
+    "Torneo Clausura 1996 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "0",
+    "1",
+    "Lanus",
+    "Torneo Apertura 1995 - Fecha 4"
+  ],
+  [
+    "Lanus",
+    "3",
+    "1",
+    "Newells",
+    "Torneo Clausura 1995 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "3",
+    "1",
+    "Lanus",
+    "Torneo Apertura 1994 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "1",
+    "2",
+    "Lanus",
+    "Torneo Clausura 1994 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Apertura 1993 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Newells",
+    "Torneo Clausura 1993 - Fecha 18"
+  ],
+  [
+    "Newells",
+    "2",
+    "3",
+    "Lanus",
+    "Torneo Apertura 1992 - Fecha 18"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Newells",
+    "Torneo Clausura 1991 - Fecha 13"
+  ],
+  [
+    "Newells",
+    "3",
+    "1",
+    "Lanus",
+    "Campeonato 1990/91 - Fecha 13"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Newells",
+    "Metropolitano 1977 - Fecha 35"
+  ],
+  [
+    "Newells",
+    "0",
+    "1",
+    "Lanus",
+    "Metropolitano 1977 - Fecha 12"
+  ],
+  [
+    "Lanus",
+    "0",
+    "1",
+    "Newells",
+    "Metropolitano 1972 - Fecha 31"
+  ],
+  [
+    "Newells",
+    "1",
+    "0",
+    "Lanus",
+    "Metropolitano 1972 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Newells",
+    "Metropolitano 1970 - Fecha 1"
+  ],
+  [
+    "Lanus",
+    "2",
+    "0",
+    "Newells",
+    "Metropolitano 1968 - Grupo A"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Newells",
+    "Metropolitano 1967 - Grupo A"
+  ],
+  [
+    "Newells",
+    "1",
+    "3",
+    "Lanus",
+    "Metropolitano 1967 - Grupo A"
+  ],
+  [
+    "Newells",
+    "2",
+    "2",
+    "Lanus",
+    "Campeonato 1966 - Fecha 37"
+  ],
+  [
+    "Lanus",
+    "0",
+    "2",
+    "Newells",
+    "Campeonato 1966 - Fecha 18"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Newells",
+    "Campeonato 1965 - Fecha 34"
+  ],
+  [
+    "Newells",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1965 - Fecha 17"
+  ],
+  [
+    "Newells",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1960 - Fecha 25"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Newells",
+    "Campeonato 1960 - Fecha 10"
+  ],
+  [
+    "Lanus",
+    "4",
+    "0",
+    "Newells",
+    "Campeonato 1959 - Fecha 30"
+  ],
+  [
+    "Newells",
+    "2",
+    "2",
+    "Lanus",
+    "Campeonato 1959 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "2",
+    "0",
+    "Newells",
+    "Campeonato 1958 - Fecha 18"
+  ],
+  [
+    "Newells",
+    "1",
+    "3",
+    "Lanus",
+    "Campeonato 1958 - Fecha 3"
+  ],
+  [
+    "Newells",
+    "2",
+    "1",
+    "Lanus",
+    "Campeonato 1957 - Fecha 22"
+  ],
+  [
+    "Lanus",
+    "2",
+    "0",
+    "Newells",
+    "Campeonato 1957 - Fecha 7"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Lanus",
+    "Campeonato 1956 - Fecha 25"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Newells",
+    "Campeonato 1956 - Fecha 10"
+  ],
+  [
+    "Newells",
+    "1",
+    "2",
+    "Lanus",
+    "Campeonato 1955 - Fecha 24"
+  ],
+  [
+    "Lanus",
+    "3",
+    "1",
+    "Newells",
+    "Campeonato 1955 - Fecha 9"
+  ],
+  [
+    "Newells",
+    "4",
+    "1",
+    "Lanus",
+    "Campeonato 1954 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "3",
+    "1",
+    "Newells",
+    "Campeonato 1954 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "1",
+    "0",
+    "Lanus",
+    "Campeonato 1953 - Fecha 20"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Newells",
+    "Campeonato 1953 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "Newells",
+    "Campeonato 1952 - Fecha 20"
+  ],
+  [
+    "Newells",
+    "2",
+    "2",
+    "Lanus",
+    "Campeonato 1952 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Newells",
+    "Campeonato 1951 - Fecha 33"
+  ],
+  [
+    "Newells",
+    "1",
+    "0",
+    "Lanus",
+    "Campeonato 1951 - Fecha 16"
+  ],
+  [
+    "Newells",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1949 - Fecha 29"
+  ],
+  [
+    "Lanus",
+    "2",
+    "1",
+    "Newells",
+    "Campeonato 1949 - Fecha 12"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Newells",
+    "Campeonato 1948 - Fecha 20"
+  ],
+  [
+    "Newells",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1948 - Fecha 5"
+  ],
+  [
+    "Lanus",
+    "3",
+    "0",
+    "Newells",
+    "Campeonato 1947 - Fecha 28"
+  ],
+  [
+    "Newells",
+    "1",
+    "0",
+    "Lanus",
+    "Campeonato 1947 - Fecha 13"
+  ],
+  [
+    "Lanus",
+    "1",
+    "1",
+    "Newells",
+    "Campeonato 1946 - Fecha 17"
+  ],
+  [
+    "Newells",
+    "1",
+    "1",
+    "Lanus",
+    "Campeonato 1946 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "Newells",
+    "Campeonato 1945 - Fecha 29"
+  ],
+  [
+    "Newells",
+    "1",
+    "0",
+    "Lanus",
+    "Campeonato 1945 - Fecha 14"
+  ],
+  [
+    "Lanus",
+    "3",
+    "2",
+    "Newells",
+    "Campeonato 1944 - Fecha 17"
+  ],
+  [
+    "Newells",
+    "4",
+    "1",
+    "Lanus",
+    "Campeonato 1944 - Fecha 2"
+  ],
+  [
+    "Lanus",
+    "1",
+    "0",
+    "Newells",
+    "Campeonato 1943 - Fecha 26"
+  ],
+  [
+    "Newells",
+    "3",
+    "2",
+    "Lanus",
+    "Campeonato 1943 - Fecha 11"
+  ],
+  [
+    "Lanus",
+    "0",
+    "0",
+    "Newells",
+    "Campeonato 1942 - Fecha 19"
+  ],
+  [
+    "Newells",
+    "3",
+    "1",
+    "Lanus",
+    "Campeonato 1942 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "9",
+    "2",
+    "Lanus",
+    "Campeonato 1941 - Fecha 30"
+  ],
+  [
+    "Lanus",
+    "3",
+    "4",
+    "Newells",
+    "Campeonato 1941 - Fecha 15"
+  ],
+  [
+    "Lanus",
+    "2",
+    "2",
+    "Newells",
+    "Campeonato 1940 - Fecha 27"
+  ],
+  [
+    "Newells",
+    "6",
+    "1",
+    "Lanus",
+    "Campeonato 1940 - Fecha 10"
+  ],
+  [
+    "Newells",
+    "1",
+    "3",
+    "Lanus",
+    "Campeonato 1939 - Fecha 24"
+  ],
+  [
+    "Lanus",
+    "1",
+    "2",
+    "Newells",
+    "Campeonato 1939 - Fecha 7"
+  ],
+  [
+    "Newells",
+    "9",
+    "2",
+    "Lanus",
+    "Campeonato 1941 - Fecha 30"
+  ],
+  [
+    "Newells",
+    "6",
+    "1",
+    "Lanus",
+    "Campeonato 1940 - Fecha 10"
+  ],
+  [
+    "Newells",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1948 - Fecha 5"
+  ],
+  [
+    "Newells",
+    "4",
+    "0",
+    "Lanus",
+    "Campeonato 1949 - Fecha 29"
+  ],
+  [
+    "Lanus",
+    "4",
+    "0",
+    "Newells",
+    "Campeonato 1959 - Fecha 30"
+  ],
+  [
+    "Lanus",
+    "4",
+    "1",
+    "Newells",
+    "Torneo Clausura 1996 - Fecha 4"
+  ],
+  [
+    "Newells",
+    "4",
+    "1",
+    "Lanus",
+    "Campeonato 1944 - Fecha 2"
+  ],
+  [
+    "Newells",
+    "4",
+    "1",
+    "Lanus",
+    "Campeonato 1954 - Fecha 19"
+  ],
+  [
+    "Lanus",
+    "3",
+    "0",
+    "Newells",
+    "Campeonato 1947 - Fecha 28"
+  ],
+  [
+    "Newells",
+    "3",
+    "0",
+    "Lanus",
+    "Campeonato 1960 - Fecha 25"
+  ],
+  [
+    "Lanus",
+    "3",
+    "0",
+    "Newells",
+    "Torneo 2016 - Fecha 6"
+  ],
+  [
+    "Newells",
+    "0",
+    "3",
+    "Lanus",
+    "Torneo Final 2013 - Fecha 2"
+  ]
+]

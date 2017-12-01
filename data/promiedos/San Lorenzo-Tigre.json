@@ -1,0 +1,534 @@
+[
+  [
+    "Tigre",
+    "4",
+    "3",
+    "San Lorenzo",
+    "Campeonato 2016/17 - Fecha 18"
+  ],
+  [
+    "Tigre",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Campeonato 2015 - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "2",
+    "Tigre",
+    "Torneo de Transicion 2014 - Fecha 10"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "San Lorenzo",
+    "Torneo Final 2014 - Fecha 10"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "0",
+    "Tigre",
+    "Torneo Inicial 2013 - Fecha 10"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "1",
+    "Tigre",
+    "Torneo Final 2013 - Fecha 5"
+  ],
+  [
+    "Tigre",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Torneo Inicial 2012 - Fecha 5"
+  ],
+  [
+    "Tigre",
+    "3",
+    "1",
+    "San Lorenzo",
+    "Torneo Clausura 2012 - Fecha 17"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Tigre",
+    "Torneo Apertura 2011 - Fecha 17"
+  ],
+  [
+    "Tigre",
+    "1",
+    "0",
+    "San Lorenzo",
+    "Torneo Clausura 2011 - Fecha 11"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "0",
+    "Tigre",
+    "Torneo Apertura 2010 - Fecha 11"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "0",
+    "Tigre",
+    "Torneo Clausura 2010 - Fecha 6"
+  ],
+  [
+    "Tigre",
+    "2",
+    "3",
+    "San Lorenzo",
+    "Torneo Apertura 2009 - Fecha 6"
+  ],
+  [
+    "Tigre",
+    "1",
+    "3",
+    "San Lorenzo",
+    "Torneo Clausura 2009 - Fecha 1"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Torneo Apertura 2008 - Triangular Desempate"
+  ],
+  [
+    "San Lorenzo",
+    "0",
+    "1",
+    "Tigre",
+    "Torneo Apertura 2008 - Fecha 1"
+  ],
+  [
+    "Tigre",
+    "1",
+    "5",
+    "San Lorenzo",
+    "Torneo Clausura 2008 - Fecha 9"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Tigre",
+    "Torneo Apertura 2007 - Fecha 9"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Tigre",
+    "Metropolitano 1980 - Fecha 37"
+  ],
+  [
+    "Tigre",
+    "0",
+    "0",
+    "San Lorenzo",
+    "Metropolitano 1980 - Fecha 18"
+  ],
+  [
+    "Tigre",
+    "4",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1958 - Fecha 25"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "0",
+    "Tigre",
+    "Campeonato 1958 - Fecha 10"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Tigre",
+    "Campeonato 1957 - Fecha 23"
+  ],
+  [
+    "Tigre",
+    "4",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1957 - Fecha 8"
+  ],
+  [
+    "Tigre",
+    "1",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1956 - Fecha 19"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "1",
+    "Tigre",
+    "Campeonato 1956 - Fecha 4"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1955 - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "1",
+    "2",
+    "Tigre",
+    "Campeonato 1955 - Fecha 11"
+  ],
+  [
+    "Tigre",
+    "2",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1954 - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "2",
+    "Tigre",
+    "Campeonato 1954 - Fecha 11"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Tigre",
+    "Campeonato 1950 - Fecha 29"
+  ],
+  [
+    "Tigre",
+    "1",
+    "5",
+    "San Lorenzo",
+    "Campeonato 1950 - Fecha 12"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1949 - Fecha 21"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "0",
+    "Tigre",
+    "Campeonato 1949 - Fecha 4"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "2",
+    "Tigre",
+    "Campeonato 1948 - Fecha 26"
+  ],
+  [
+    "Tigre",
+    "4",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1948 - Fecha 11"
+  ],
+  [
+    "San Lorenzo",
+    "8",
+    "2",
+    "Tigre",
+    "Campeonato 1947 - Fecha 23"
+  ],
+  [
+    "Tigre",
+    "2",
+    "5",
+    "San Lorenzo",
+    "Campeonato 1947 - Fecha 8"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "0",
+    "Tigre",
+    "Campeonato 1946 - Fecha 16"
+  ],
+  [
+    "Tigre",
+    "1",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1946 - Fecha 1"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "2",
+    "Tigre",
+    "Campeonato 1942 - Fecha 24"
+  ],
+  [
+    "Tigre",
+    "2",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1942 - Fecha 9"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1941 - Fecha 26"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1941 - Fecha 11"
+  ],
+  [
+    "Tigre",
+    "1",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1940 - Fecha 25"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "3",
+    "Tigre",
+    "Campeonato 1940 - Fecha 8"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1939 - Fecha 33"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "2",
+    "Tigre",
+    "Campeonato 1939 - Fecha 16"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Tigre",
+    "Campeonato 1938 - Fecha 19"
+  ],
+  [
+    "Tigre",
+    "2",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1938 - Fecha 2"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "2",
+    "Tigre",
+    "Campeonato 1937 - Fecha 33"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1937 - Fecha 15"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "0",
+    "Tigre",
+    "Campeonato 1936 - Fecha 13"
+  ],
+  [
+    "Tigre",
+    "0",
+    "2",
+    "San Lorenzo",
+    "Copa de Honor 1936 - Fecha 13"
+  ],
+  [
+    "Tigre",
+    "2",
+    "3",
+    "San Lorenzo",
+    "Campeonato 1935 - Fecha 32"
+  ],
+  [
+    "San Lorenzo",
+    "2",
+    "1",
+    "Tigre",
+    "Campeonato 1935 - Fecha 15"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "2",
+    "Tigre",
+    "Campeonato 1933 - Fecha 26"
+  ],
+  [
+    "Tigre",
+    "0",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1933 - Fecha 9"
+  ],
+  [
+    "San Lorenzo",
+    "8",
+    "2",
+    "Tigre",
+    "Campeonato 1932 - Fecha 25"
+  ],
+  [
+    "Tigre",
+    "1",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1932 - Fecha 8"
+  ],
+  [
+    "Tigre",
+    "3",
+    "2",
+    "San Lorenzo",
+    "Campeonato 1931 - Fecha 18"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "2",
+    "Tigre",
+    "Campeonato 1931 - Fecha 1"
+  ],
+  [
+    "San Lorenzo",
+    "8",
+    "2",
+    "Tigre",
+    "Campeonato 1932 - Fecha 25"
+  ],
+  [
+    "San Lorenzo",
+    "8",
+    "2",
+    "Tigre",
+    "Campeonato 1947 - Fecha 23"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "0",
+    "Tigre",
+    "Campeonato 1958 - Fecha 10"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "1",
+    "Tigre",
+    "Campeonato 1956 - Fecha 4"
+  ],
+  [
+    "Tigre",
+    "1",
+    "5",
+    "San Lorenzo",
+    "Torneo Clausura 2008 - Fecha 9"
+  ],
+  [
+    "Tigre",
+    "1",
+    "5",
+    "San Lorenzo",
+    "Campeonato 1950 - Fecha 12"
+  ],
+  [
+    "Tigre",
+    "4",
+    "0",
+    "San Lorenzo",
+    "Campeonato 1948 - Fecha 11"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "0",
+    "Tigre",
+    "Campeonato 1949 - Fecha 4"
+  ],
+  [
+    "San Lorenzo",
+    "5",
+    "2",
+    "Tigre",
+    "Campeonato 1933 - Fecha 26"
+  ],
+  [
+    "Tigre",
+    "2",
+    "5",
+    "San Lorenzo",
+    "Campeonato 1947 - Fecha 8"
+  ],
+  [
+    "San Lorenzo",
+    "4",
+    "1",
+    "Tigre",
+    "Campeonato 1950 - Fecha 29"
+  ],
+  [
+    "Tigre",
+    "4",
+    "1",
+    "San Lorenzo",
+    "Campeonato 1958 - Fecha 25"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Tigre",
+    "Campeonato 1941 - Fecha 26"
+  ],
+  [
+    "San Lorenzo",
+    "3",
+    "0",
+    "Tigre",
+    "Metropolitano 1980 - Fecha 37"
+  ]
+]
