@@ -5,9 +5,6 @@ from urllib.parse import urlparse, quote
 import os
 
 
-current_dir = os.path.dirname(__file__)
-
-
 def safe_url(url):
     def safe_params(s):
         safe = []
@@ -22,6 +19,7 @@ def safe_url(url):
 class PromiedosSpider(scrapy.Spider):
     name = 'promiedosspider'
     start_urls = ['http://www.promiedos.com.ar/historialpartidos.php']
+    dump_dir = '.'
 
     def parse(self, response):
         for team_link in response.css('.datosequipo2b::attr(href)').extract():
@@ -56,8 +54,7 @@ class PromiedosSpider(scrapy.Spider):
         print('got %d matches for %s to save at %s' % (len(matches), response.url, file_path))
         write_json(matches, file_path)
 
-    @staticmethod
-    def file_path_for(url):
+    def file_path_for(self, url):
         if 'versus' in url:
             first_team = 'Argentina'
             second_team = url.split('=')[-1]
@@ -68,4 +65,4 @@ class PromiedosSpider(scrapy.Spider):
         second_team = urllib.request.unquote(second_team, encoding='latin1')
 
         filename = '%s-%s.json' % (first_team, second_team)
-        return os.path.join(current_dir, '../data/promiedos', filename)
+        return os.path.join(self.dump_dir, filename)

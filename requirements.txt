@@ -20,6 +20,7 @@ parsel==1.2.0
 parso==0.1.0
 pexpect==4.3.0
 pickleshare==0.7.4
+progressbar2==3.34.3
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 pyasn1==0.4.2
@@ -28,6 +29,7 @@ pycparser==2.18
 PyDispatcher==2.0.5
 Pygments==2.2.0
 pyOpenSSL==17.5.0
+python-utils==2.2.0
 queuelib==1.4.2
 requests==2.18.4
 Scrapy==1.4.0

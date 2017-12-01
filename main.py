@@ -1,9 +1,23 @@
-from scrapy.crawler import CrawlerProcess
-from scrapper.spider import PromiedosSpider
+def runspider(dump_dir):
+    from scrapy.crawler import CrawlerProcess
+    from scrapper.spider import PromiedosSpider
 
-process = CrawlerProcess({
-    'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
-})
+    process = CrawlerProcess({
+        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
+    })
+    PromiedosSpider.dump_dir = dump_dir
+    process.crawl(PromiedosSpider)
+    process.start()
 
-process.crawl(PromiedosSpider)
-process.start()
+
+def runparser(data_dir):
+    from scrapper.parser import parse_promedios_data
+    parse_promedios_data(data_dir)
+
+
+if __name__ == '__main__':
+    import os
+    current_dir = os.path.dirname(__file__)
+    raw_data_dir = os.path.join(current_dir, 'data/promiedos')
+    #runspider(dump_dir=raw_data_dir)
+    runparser(data_dir=raw_data_dir)

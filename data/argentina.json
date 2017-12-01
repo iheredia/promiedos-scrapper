@@ -392,8 +392,8 @@
     "fecha": "2011/09/14",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Superclásico de las Américas 2011",
     "raw": "Superclásico de las Américas 2011 - 14/09/2011 En  Córdoba"
@@ -487,8 +487,8 @@
     "fecha": "2011/07/06",
     "lugar": {
       "raw": "Santa Fe",
-      "lat": 35.6869752,
-      "long": -105.937799
+      "lat": -31.5855109,
+      "long": -60.72380159999999
     },
     "tipo": "Copa América 2011",
     "raw": "Copa América 2011 - 06/07/2011 En  Santa Fe"
@@ -563,8 +563,8 @@
     "fecha": "1979/05/22",
     "lugar": {
       "raw": "Zurich",
-      "lat": 38.979222,
-      "long": -94.772516
+      "lat": -38.95277900000001,
+      "long": -68.065913
     },
     "tipo": "Copa 75° Aniversario de la F.I.F.A.",
     "raw": "Copa 75° Aniversario de la F.I.F.A. - 22/05/1979 En  Zurich"
@@ -1114,8 +1114,8 @@
     "fecha": "2016/10/11",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Eliminatorias Mundial 2018",
     "raw": "Eliminatorias Mundial 2018 - 11/10/2016 En Córdoba"
@@ -1345,8 +1345,8 @@
     "fecha": "2016/06/26",
     "lugar": {
       "raw": "Nueva Jersey, USA",
-      "lat": 40.0583238,
-      "long": -74.4056612
+      "lat": null,
+      "long": null
     },
     "tipo": "Copa America USA 2016",
     "raw": "Copa America USA 2016 - Final - 26/06/2016 En Nueva Jersey, USA"
@@ -1842,8 +1842,8 @@
     "fecha": "2017/03/23",
     "lugar": {
       "raw": "Estadio Monumental, Buenos Aires",
-      "lat": -34.5453062,
-      "long": -58.44977489999999
+      "lat": null,
+      "long": null
     },
     "tipo": "Eliminatorias Mundial 2018",
     "raw": "Eliminatorias Mundial 2018 - 23/03/2017 En Estadio Monumental, Buenos Aires"
@@ -2013,8 +2013,8 @@
     "fecha": "2016/05/27",
     "lugar": {
       "raw": "San Juan",
-      "lat": 18.4655394,
-      "long": -66.1057355
+      "lat": -31.5351074,
+      "long": -68.5385941
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 27/05/2016 En San Juan"
@@ -2336,8 +2336,8 @@
     "fecha": "1995/05/31",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Copa Municipalidad de Córdoba",
     "raw": "Copa Municipalidad de Córdoba - 31/05/1995 En  Córdoba"
@@ -3153,8 +3153,8 @@
     "fecha": "1977/03/22",
     "lugar": {
       "raw": "Madrid",
-      "lat": 40.4167754,
-      "long": -3.7037902
+      "lat": null,
+      "long": null
     },
     "tipo": "Copa 75° Aniversario del Real Madrid",
     "raw": "Copa 75° Aniversario del Real Madrid - 22/03/1977 En  Madrid"
@@ -3324,8 +3324,8 @@
     "fecha": "1997/06/17",
     "lugar": {
       "raw": "Sucre",
-      "lat": 29.9247915,
-      "long": -90.0852213
+      "lat": -19.0195852,
+      "long": -65.2619615
     },
     "tipo": "Copa América 1997",
     "raw": "Copa América 1997 - 17/06/1997 En  Sucre"
@@ -3989,8 +3989,8 @@
     "fecha": "1987/06/10",
     "lugar": {
       "raw": "Zurich",
-      "lat": 38.979222,
-      "long": -94.772516
+      "lat": -38.95277900000001,
+      "long": -68.065913
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 10/06/1987 En  Zurich"
@@ -4090,8 +4090,8 @@
     "fecha": "2011/07/16",
     "lugar": {
       "raw": "Santa Fe",
-      "lat": 35.6869752,
-      "long": -105.937799
+      "lat": -31.5855109,
+      "long": -60.72380159999999
     },
     "tipo": "Copa América 2011",
     "raw": "Copa América 2011 - 16/07/2011 En  Santa Fe"
@@ -4305,8 +4305,8 @@
     "fecha": "2016/03/29",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Eliminatorias Mundial 2018",
     "raw": "Eliminatorias Mundial 2018 - 29/03/2016 En Córdoba"
@@ -4742,8 +4742,8 @@
     "fecha": "2009/09/30",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 30/09/2009 En  Córdoba"
@@ -5008,8 +5008,8 @@
     "fecha": "1966/07/19",
     "lugar": {
       "raw": "Sheffield",
-      "lat": 53.38112899999999,
-      "long": -1.470085
+      "lat": null,
+      "long": null
     },
     "tipo": "Copa Mundial de Fútbol 1966",
     "raw": "Copa Mundial de Fútbol 1966 - 19/07/1966 En  Sheffield"
@@ -5483,8 +5483,8 @@
     "fecha": "1999/10/13",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 13/10/1999 En  Córdoba"
@@ -5521,8 +5521,8 @@
     "fecha": "2006/06/10",
     "lugar": {
       "raw": "Hamburgo",
-      "lat": 53.5510846,
-      "long": 9.9936819
+      "lat": null,
+      "long": null
     },
     "tipo": "Copa Mundial de Fútbol 2006",
     "raw": "Copa Mundial de Fútbol 2006 - 10/06/2006 En  Hamburgo"
@@ -5901,8 +5901,8 @@
     "fecha": "2011/02/09",
     "lugar": {
       "raw": "Ginebra",
-      "lat": 46.2043907,
-      "long": 6.1431577
+      "lat": -34.5885929,
+      "long": -58.384014
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 09/02/2011 En  Ginebra"
@@ -6281,8 +6281,8 @@
     "fecha": "2002/03/27",
     "lugar": {
       "raw": "Ginebra",
-      "lat": 46.2043907,
-      "long": 6.1431577
+      "lat": -34.5885929,
+      "long": -58.384014
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 27/03/2002 En  Ginebra"
@@ -7012,8 +7012,8 @@
     "fecha": "2016/11/15",
     "lugar": {
       "raw": "San Juan",
-      "lat": 18.4655394,
-      "long": -66.1057355
+      "lat": -31.5351074,
+      "long": -68.5385941
     },
     "tipo": "Eliminatorias Mundial 2018",
     "raw": "Eliminatorias Mundial 2018 - 15/11/2016 En San Juan"
@@ -7050,8 +7050,8 @@
     "fecha": "2011/07/11",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Copa América 2011",
     "raw": "Copa América 2011 - 11/07/2011 En  Córdoba"
@@ -7544,8 +7544,8 @@
     "fecha": "2009/05/20",
     "lugar": {
       "raw": "Santa Fe",
-      "lat": 35.6869752,
-      "long": -105.937799
+      "lat": -31.5855109,
+      "long": -60.72380159999999
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 20/05/2009 En  Santa Fe"
@@ -7620,8 +7620,8 @@
     "fecha": "2012/09/07",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Eliminatorias Sudamericanas 2014",
     "raw": "Eliminatorias Sudamericanas 2014 - 07/09/2012 En  Córdoba"
@@ -7905,8 +7905,8 @@
     "fecha": "2010/01/26",
     "lugar": {
       "raw": "San Juan",
-      "lat": 18.4655394,
-      "long": -66.1057355
+      "lat": -31.5351074,
+      "long": -68.5385941
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 26/01/2010 En  San Juan"
@@ -8893,8 +8893,8 @@
     "fecha": "2011/03/16",
     "lugar": {
       "raw": "San Juan",
-      "lat": 18.4655394,
-      "long": -66.1057355
+      "lat": -31.5351074,
+      "long": -68.5385941
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 16/03/2011 En  San Juan"
@@ -9216,8 +9216,8 @@
     "fecha": "2015/06/06",
     "lugar": {
       "raw": "San Juan",
-      "lat": 18.4655394,
-      "long": -66.1057355
+      "lat": -31.5351074,
+      "long": -68.5385941
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 06/06/2015 En San Juan"
@@ -9254,8 +9254,8 @@
     "fecha": "1998/05/14",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 14/05/1998 En  Córdoba"
@@ -9368,8 +9368,8 @@
     "fecha": "1980/12/16",
     "lugar": {
       "raw": "Córdoba",
-      "lat": 37.8881751,
-      "long": -4.7793835
+      "lat": -31.42008329999999,
+      "long": -64.1887761
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 16/12/1980 En  Córdoba"
@@ -10109,8 +10109,8 @@
     "fecha": "1993/10/31",
     "lugar": {
       "raw": "Sidney",
-      "lat": 40.2842164,
-      "long": -84.1554987
+      "lat": -33.8688197,
+      "long": 151.2092955
     },
     "tipo": "Eliminatorias Sudamericanas 1994\n(Repesca OFC/CONMEBOL)",
     "raw": "Eliminatorias Sudamericanas 1994\n(Repesca OFC/CONMEBOL) - 31/10/1993 En  Sidney"
@@ -10147,8 +10147,8 @@
     "fecha": "1988/07/14",
     "lugar": {
       "raw": "Sidney",
-      "lat": 40.2842164,
-      "long": -84.1554987
+      "lat": -33.8688197,
+      "long": 151.2092955
     },
     "tipo": "Copa de Oro Bicentenario de Australia",
     "raw": "Copa de Oro Bicentenario de Australia - 14/07/1988 En  Sidney"
@@ -10508,8 +10508,8 @@
     "fecha": "1984/06/17",
     "lugar": {
       "raw": "San Pablo",
-      "lat": 37.9621457,
-      "long": -122.3455263
+      "lat": -34.6053319,
+      "long": -58.3920883
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 17/06/1984 En  San Pablo"
@@ -10641,8 +10641,8 @@
     "fecha": "1940/02/25",
     "lugar": {
       "raw": "San Pablo",
-      "lat": 37.9621457,
-      "long": -122.3455263
+      "lat": -34.6053319,
+      "long": -58.3920883
     },
     "tipo": "Copa Roca",
     "raw": "Copa Roca - 25/02/1940 En  San Pablo"
@@ -10660,8 +10660,8 @@
     "fecha": "1964/06/03",
     "lugar": {
       "raw": "San Pablo",
-      "lat": 37.9621457,
-      "long": -122.3455263
+      "lat": -34.6053319,
+      "long": -58.3920883
     },
     "tipo": "Copa de las Naciones",
     "raw": "Copa de las Naciones - 03/06/1964 En  San Pablo"
@@ -10888,8 +10888,8 @@
     "fecha": "1957/07/10",
     "lugar": {
       "raw": "San Pablo",
-      "lat": 37.9621457,
-      "long": -122.3455263
+      "lat": -34.6053319,
+      "long": -58.3920883
     },
     "tipo": "Copa Roca",
     "raw": "Copa Roca - 10/07/1957 En  San Pablo"
@@ -10907,8 +10907,8 @@
     "fecha": "2011/09/28",
     "lugar": {
       "raw": "Belen",
-      "lat": 34.6627652,
-      "long": -106.7761546
+      "lat": 31.7053821,
+      "long": 35.2024425
     },
     "tipo": "Superclásico de las Américas 2011",
     "raw": "Superclásico de las Américas 2011 - 28/09/2011 En  Belen"
@@ -11021,8 +11021,8 @@
     "fecha": "1940/02/18",
     "lugar": {
       "raw": "San Pablo",
-      "lat": 37.9621457,
-      "long": -122.3455263
+      "lat": -34.6053319,
+      "long": -58.3920883
     },
     "tipo": "Copa Roca",
     "raw": "Copa Roca - 18/02/1940 En  San Pablo"
@@ -11040,8 +11040,8 @@
     "fecha": "1963/04/13",
     "lugar": {
       "raw": "San Pablo",
-      "lat": 37.9621457,
-      "long": -122.3455263
+      "lat": -34.6053319,
+      "long": -58.3920883
     },
     "tipo": "Copa Roca",
     "raw": "Copa Roca - 13/04/1963 En  San Pablo"
@@ -11062,8 +11062,8 @@
     "fecha": "1995/07/17",
     "lugar": {
       "raw": "Rivera",
-      "lat": -31.4734151,
-      "long": -55.2259207
+      "lat": -30.9178625,
+      "long": -55.5469032
     },
     "tipo": "Copa América 1995",
     "raw": "Copa América 1995 - 17/07/1995 En  Rivera"
@@ -11176,8 +11176,8 @@
     "fecha": "2000/07/26",
     "lugar": {
       "raw": "San Pablo",
-      "lat": 37.9621457,
-      "long": -122.3455263
+      "lat": -34.6053319,
+      "long": -58.3920883
     },
     "tipo": "Eliminatorias Sudamericanas 2002",
     "raw": "Eliminatorias Sudamericanas 2002 - 26/07/2000 En  San Pablo"
@@ -11252,8 +11252,8 @@
     "fecha": "1945/12/16",
     "lugar": {
       "raw": "San Pablo",
-      "lat": 37.9621457,
-      "long": -122.3455263
+      "lat": -34.6053319,
+      "long": -58.3920883
     },
     "tipo": "Copa Roca",
     "raw": "Copa Roca - 16/12/1945 En  San Pablo"
@@ -12797,8 +12797,8 @@
     "fecha": "1952/12/07",
     "lugar": {
       "raw": "Madrid",
-      "lat": 40.4167754,
-      "long": -3.7037902
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 07/12/1952 En  Madrid"
@@ -12835,8 +12835,8 @@
     "fecha": "1972/10/11",
     "lugar": {
       "raw": "Madrid",
-      "lat": 40.4167754,
-      "long": -3.7037902
+      "lat": null,
+      "long": null
     },
     "tipo": "Copa Hispanidad",
     "raw": "Copa Hispanidad - 11/10/1972 En  Madrid"
@@ -12911,8 +12911,8 @@
     "fecha": "2009/11/14",
     "lugar": {
       "raw": "Madrid",
-      "lat": 40.4167754,
-      "long": -3.7037902
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 14/11/2009 En  Madrid"
@@ -12930,8 +12930,8 @@
     "fecha": "1995/09/20",
     "lugar": {
       "raw": "Madrid",
-      "lat": 40.4167754,
-      "long": -3.7037902
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 20/09/1995 En  Madrid"
@@ -13427,8 +13427,8 @@
     "fecha": "2005/08/17",
     "lugar": {
       "raw": "Budapest",
-      "lat": 47.497912,
-      "long": 19.040235
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 17/08/2005 En  Budapest"
@@ -13446,8 +13446,8 @@
     "fecha": "1976/03/27",
     "lugar": {
       "raw": "Budapest",
-      "lat": 47.497912,
-      "long": 19.040235
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 27/03/1976 En  Budapest"
@@ -13636,8 +13636,8 @@
     "fecha": "2005/11/12",
     "lugar": {
       "raw": "Ginebra",
-      "lat": 46.2043907,
-      "long": 6.1431577
+      "lat": -34.5885929,
+      "long": -58.384014
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 12/11/2005 En  Ginebra"
@@ -13731,8 +13731,8 @@
     "fecha": "1994/05/31",
     "lugar": {
       "raw": "Ramat Gan",
-      "lat": 32.068424,
-      "long": 34.824785
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 31/05/1994 En  Ramat Gan"
@@ -13750,8 +13750,8 @@
     "fecha": "1973/02/20",
     "lugar": {
       "raw": "Ramat Gan",
-      "lat": 32.068424,
-      "long": 34.824785
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 20/02/1973 En  Ramat Gan"
@@ -13769,8 +13769,8 @@
     "fecha": "1990/05/22",
     "lugar": {
       "raw": "Ramat Gan",
-      "lat": 32.068424,
-      "long": 34.824785
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 22/05/1990 En  Ramat Gan"
@@ -13788,8 +13788,8 @@
     "fecha": "1998/04/15",
     "lugar": {
       "raw": "Jerusalem",
-      "lat": 31.768319,
-      "long": 35.21371
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 15/04/1998 En  Jerusalem"
@@ -13807,8 +13807,8 @@
     "fecha": "1986/05/04",
     "lugar": {
       "raw": "Ramat Gan",
-      "lat": 32.068424,
-      "long": 34.824785
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 04/05/1986 En  Ramat Gan"
@@ -14019,8 +14019,8 @@
     "fecha": "1992/05/31",
     "lugar": {
       "raw": "Tokio",
-      "lat": 39.7585442,
-      "long": -104.9974584
+      "lat": 35.6894875,
+      "long": 139.6917064
     },
     "tipo": "Copa Kirin",
     "raw": "Copa Kirin - 31/05/1992 En  Tokio"
@@ -14380,8 +14380,8 @@
     "fecha": "2008/06/04",
     "lugar": {
       "raw": "San Diego",
-      "lat": 32.715738,
-      "long": -117.1610838
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 04/06/2008 En  San Diego"
@@ -15637,8 +15637,8 @@
     "fecha": "1997/06/21",
     "lugar": {
       "raw": "Sucre",
-      "lat": 29.9247915,
-      "long": -90.0852213
+      "lat": -19.0195852,
+      "long": -65.2619615
     },
     "tipo": "Copa América 1997",
     "raw": "Copa América 1997 - 21/06/1997 En  Sucre"
@@ -15751,8 +15751,8 @@
     "fecha": "1928/04/01",
     "lugar": {
       "raw": "Lisboa",
-      "lat": 38.7222524,
-      "long": -9.1393366
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 01/04/1928 En  Lisboa"
@@ -15770,8 +15770,8 @@
     "fecha": "1961/06/04",
     "lugar": {
       "raw": "Lisboa",
-      "lat": 38.7222524,
-      "long": -9.1393366
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 04/06/1961 En  Lisboa"
@@ -15808,8 +15808,8 @@
     "fecha": "1952/12/14",
     "lugar": {
       "raw": "Lisboa",
-      "lat": 38.7222524,
-      "long": -9.1393366
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 14/12/1952 En  Lisboa"
@@ -15827,8 +15827,8 @@
     "fecha": "1954/11/28",
     "lugar": {
       "raw": "Lisboa",
-      "lat": 38.7222524,
-      "long": -9.1393366
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 28/11/1954 En  Lisboa"
@@ -15998,8 +15998,8 @@
     "fecha": "1934/05/27",
     "lugar": {
       "raw": "Bolonia",
-      "lat": 36.0887959,
-      "long": -5.7745904
+      "lat": null,
+      "long": null
     },
     "tipo": "Copa Mundial de Fútbol 1934",
     "raw": "Copa Mundial de Fútbol 1934 - 27/05/1934 En  Bolonia"
@@ -16112,8 +16112,8 @@
     "fecha": "1976/03/20",
     "lugar": {
       "raw": "Kiev",
-      "lat": 50.4501,
-      "long": 30.5234
+      "lat": null,
+      "long": null
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 20/03/1976 En  Kiev"
@@ -18069,8 +18069,8 @@
     "fecha": "1985/05/26",
     "lugar": {
       "raw": "San Cristóbal",
-      "lat": 16.7370359,
-      "long": -92.6376186
+      "lat": null,
+      "long": null
     },
     "tipo": "Eliminatorias Sudamericanas 1986",
     "raw": "Eliminatorias Sudamericanas 1986 - 26/05/1985 En  San Cristóbal"
@@ -18088,8 +18088,8 @@
     "fecha": "1996/10/09",
     "lugar": {
       "raw": "San Cristóbal",
-      "lat": 16.7370359,
-      "long": -92.6376186
+      "lat": null,
+      "long": null
     },
     "tipo": "Eliminatorias Sudamericanas 1998",
     "raw": "Eliminatorias Sudamericanas 1998 - 09/10/1996 En  San Cristóbal"
