@@ -2,6 +2,10 @@ import scrapy
 from .helpers import write_json
 import urllib.request
 from urllib.parse import urlparse, quote
+import os
+
+
+current_dir = os.path.dirname(__file__)
 
 
 def safe_url(url):
@@ -62,4 +66,6 @@ class PromiedosSpider(scrapy.Spider):
             first_team = first_team.split('&')[0]
         first_team = urllib.request.unquote(first_team, encoding='latin1')
         second_team = urllib.request.unquote(second_team, encoding='latin1')
-        return '../tmp/%s-%s.json' % (first_team, second_team)
+
+        filename = '%s-%s.json' % (first_team, second_team)
+        return os.path.join(current_dir, '../data/promiedos', filename)
