@@ -1,7 +1,7 @@
 import os
-import json
 import re
 import requests
+from .helpers import write_json, read_json
 
 
 def read_all_matches():
@@ -9,8 +9,7 @@ def read_all_matches():
     for file_name in os.listdir('tmp'):
         file_path = 'tmp/' + file_name
         if os.path.isfile(file_path):
-            with open(file_path, 'r') as json_file:
-                matches += json.load(json_file)
+            matches += read_json(file_path)
     return matches
 
 
@@ -83,37 +82,6 @@ def to_obj(match):
     }
 
 
-def compress(matches):
-    teams_set = set()
-    scores_set = set()
-    for m in matches:
-        teams_set.add(m[0])
-        scores_set.add(m[1])
-        scores_set.add(m[2])
-        teams_set.add(m[3])
-    teams = sorted(list(teams_set))
-    scores = sorted(list(scores_set))
-    return {
-        'equipos': teams,
-        'puntajes': scores,
-        'partidos': [
-            [
-                teams.index(m[0]),
-                scores.index(m[1]),
-                scores.index(m[2]),
-                teams.index(m[3]),
-                m[4]
-            ]
-            for m in matches
-        ]
-    }
-
-
-def save_json(obj, path):
-    with open(path, 'w') as json_file:
-        json.dump(obj, json_file, ensure_ascii=False, indent=2)
-
-
 def parse_national_raw(match):
     before, after = match['raw'].rsplit(' -')
 
@@ -139,16 +107,16 @@ def parse_national_raw(match):
 def coordinates(query_string):
     path_to_cache = 'tmp/geolocation/geolocation_%s.json' % query_string
     if os.path.isfile(path_to_cache):
-        with open(path_to_cache, 'r') as response_json_file:
-            response = json.load(response_json_file)
+        response = read_json(path_to_cache)
     else:
         params = {
-            "address": query_string
+            "address": query_string,
+            "region": "ar"
         }
+        # https://developers.google.com/maps/documentation/geocoding/intro?hl=es-419
         api_url = 'https://maps.googleapis.com/maps/api/geocode/json'
         response = requests.get(api_url, params=params).json()
-        with open(path_to_cache, 'w') as response_json_file:
-            json.dump(response, response_json_file)
+        write_json(response, path_to_cache)
     lat, long = None, None
     results = response.get('results', [])
     if len(results) > 0:
@@ -180,5 +148,5 @@ if __name__ == '__main__':
     national = [to_obj(m) for m in national]
     national = [parse_national_raw(m) for m in national]
 
-    save_json(argentina, 'data/argentina.json')
-    save_json(national, 'data/nacional.json')
+    write_json(argentina, 'data/argentina.json')
+    write_json(national, 'data/nacional.json')

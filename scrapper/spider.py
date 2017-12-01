@@ -1,20 +1,18 @@
 import scrapy
-import json
+from .helpers import write_json
 import urllib.request
 from urllib.parse import urlparse, quote
 
 
 def safe_url(url):
+    def safe_params(s):
+        safe = []
+        for pair in s.split('&'):
+            k, v = pair.split('=')
+            safe.append(k + '=' + quote(v, encoding='latin1'))
+        return '&'.join(safe)
     url = urlparse(url)
     return url.scheme + '://' + url.netloc + url.path + '?' + safe_params(url.query)
-
-
-def safe_params(s):
-    safe = []
-    for pair in s.split('&'):
-        k, v = pair.split('=')
-        safe.append(k + '=' + quote(v, encoding='latin1'))
-    return '&'.join(safe)
 
 
 class PromiedosSpider(scrapy.Spider):
@@ -52,8 +50,7 @@ class PromiedosSpider(scrapy.Spider):
 
         file_path = self.file_path_for(response.url)
         print('got %d matches for %s to save at %s' % (len(matches), response.url, file_path))
-        with open(file_path, 'w') as json_file:
-            json.dump(matches, json_file, ensure_ascii=False, indent=2)
+        write_json(matches, file_path)
 
     @staticmethod
     def file_path_for(url):
@@ -65,4 +62,4 @@ class PromiedosSpider(scrapy.Spider):
             first_team = first_team.split('&')[0]
         first_team = urllib.request.unquote(first_team, encoding='latin1')
         second_team = urllib.request.unquote(second_team, encoding='latin1')
-        return 'tmp/%s-%s.json' % (first_team, second_team)
+        return '../tmp/%s-%s.json' % (first_team, second_team)
