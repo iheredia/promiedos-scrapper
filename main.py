@@ -16,8 +16,15 @@ def runparser(data_dir):
 
 
 if __name__ == '__main__':
+    from sys import argv
     import os
     current_dir = os.path.dirname(__file__)
     raw_data_dir = os.path.join(current_dir, 'data/promiedos')
-    #runspider(dump_dir=raw_data_dir)
-    runparser(data_dir=raw_data_dir)
+
+    if '--only-spider' in argv:
+        runspider(dump_dir=raw_data_dir)
+    elif '--only-parser' in argv:
+        runparser(data_dir=raw_data_dir)
+    else:
+        runspider(dump_dir=raw_data_dir)
+        runparser(data_dir=raw_data_dir)
