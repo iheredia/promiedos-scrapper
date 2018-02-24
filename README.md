@@ -2,6 +2,20 @@
 
 ## Ejecución
 
-Este repo fue creado utilizando `python 3.6.3`.
-Para instalar las dependencias, ejectuar `pip install -r requirements.txt`, idealmente bajo un `virtualenv`.
-Una vez instaladas las dependencias, ejecutar `python main.py` para correr el scrapper.   
+Este repo está pensando para ser usado con `python 3.6.3`, `pip` y `virtualenv`. 
+
+Proceso de instalación:
+
+```bash
+$ git clone git@github.com:iheredia/promiedos-scrapper.git
+$ cd promiedos-scrapper
+# crear virtualenv: 
+$ virtualenv -p python3 venv
+# activar virtualenv:  
+$ . venv/bin/activate
+# instalar dependencias 
+$ pip install -r requirements.txt 
+
+```
+
+Una vez instaladas las dependencias, ejecutar `python main.py` para correr el scrapper. 
