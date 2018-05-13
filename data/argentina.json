@@ -12938,6 +12938,25 @@
   },
   {
     "equipos": [
+      "España",
+      "Argentina"
+    ],
+    "resultado": [
+      6,
+      1
+    ],
+    "penales": null,
+    "fecha": "2018/03/27",
+    "lugar": {
+      "raw": "Madrid",
+      "lat": null,
+      "long": null
+    },
+    "tipo": "Amistoso",
+    "raw": "Amistoso - 27/03/2018 En Madrid"
+  },
+  {
+    "equipos": [
       "Estados Unidos",
       "Argentina"
     ],
@@ -13831,6 +13850,25 @@
     },
     "tipo": "Amistoso",
     "raw": "Amistoso - 21/12/1989 En  Cagliari"
+  },
+  {
+    "equipos": [
+      "Italia",
+      "Argentina"
+    ],
+    "resultado": [
+      0,
+      2
+    ],
+    "penales": null,
+    "fecha": "2018/03/23",
+    "lugar": {
+      "raw": "Manchester",
+      "lat": 53.4807593,
+      "long": -2.2426305
+    },
+    "tipo": "Amistoso",
+    "raw": "Amistoso - 23/03/2018 En Manchester"
   },
   {
     "equipos": [
