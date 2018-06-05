@@ -8294,6 +8294,25 @@
   {
     "equipos": [
       "Argentina",
+      "Haiti"
+    ],
+    "resultado": [
+      4,
+      0
+    ],
+    "penales": null,
+    "fecha": "2018/05/29",
+    "lugar": {
+      "raw": "Buenos Aires",
+      "lat": -34.6036844,
+      "long": -58.3815591
+    },
+    "tipo": "Amistoso",
+    "raw": "Amistoso - 29/05/2018 En Buenos Aires"
+  },
+  {
+    "equipos": [
+      "Argentina",
       "Haití"
     ],
     "resultado": [
