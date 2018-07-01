@@ -1313,6 +1313,25 @@
   {
     "equipos": [
       "Argentina",
+      "Croacia"
+    ],
+    "resultado": [
+      0,
+      3
+    ],
+    "penales": null,
+    "fecha": "2018/06/21",
+    "lugar": {
+      "raw": "Nizhny Novgorod",
+      "lat": 56.2965039,
+      "long": 43.93605900000001
+    },
+    "tipo": "Copa Mundial 2018",
+    "raw": "Copa Mundial 2018 - 21/06/2018 En Nizhny Novgorod"
+  },
+  {
+    "equipos": [
+      "Argentina",
       "Colombia"
     ],
     "resultado": [
@@ -13223,6 +13242,25 @@
   },
   {
     "equipos": [
+      "Francia",
+      "Argentina"
+    ],
+    "resultado": [
+      4,
+      3
+    ],
+    "penales": null,
+    "fecha": "2018/06/30",
+    "lugar": {
+      "raw": "Kazan, Rusia",
+      "lat": 55.8304307,
+      "long": 49.06608060000001
+    },
+    "tipo": "Copa Mundial 2018",
+    "raw": "Copa Mundial 2018 - 30/06/2018 En Kazan, Rusia"
+  },
+  {
+    "equipos": [
       "Gales",
       "Argentina"
     ],
@@ -14540,6 +14578,25 @@
     },
     "tipo": "Copa Rey Fahd 1995",
     "raw": "Copa Rey Fahd 1995 - 10/01/1995 En  Riyadh"
+  },
+  {
+    "equipos": [
+      "Nigeria",
+      "Argentina"
+    ],
+    "resultado": [
+      1,
+      2
+    ],
+    "penales": null,
+    "fecha": "2018/06/26",
+    "lugar": {
+      "raw": "San Petersburgo, Rusia",
+      "lat": 59.9342802,
+      "long": 30.3350986
+    },
+    "tipo": "Copa Mundial 2018",
+    "raw": "Copa Mundial 2018 - 26/06/2018 En San Petersburgo, Rusia"
   },
   {
     "equipos": [
